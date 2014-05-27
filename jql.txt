@@ -1,0 +1,3 @@
+("FL Project" = "Griffin MP1") or ("FL Project" = "Griffin FP") and \
+              (issuetype = "New Feature" and (status != "Open" or status != "In Progress" or status != "Reopened" or status != "Resolved" or status != "Closed") or \
+              (issuetype = Sub-task and status = "In Progress"))
