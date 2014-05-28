@@ -7,6 +7,22 @@ Created on May 16, 2014
 import requests
 import sys
                                
+class IssueClass:
+    """Class objects to hold issue attributes."""
+    def __init__(self):
+        self.assignee = ""
+        self.assignee_email = ""
+        self.icdt = "" # Issue create date time
+        self.issue_id = ""
+        self.issue_parent = ""
+        self.issue_type = ""
+        self.sprint = ""
+        self.stalled = False
+        self.status = ""
+        self.summary = ""
+        self.time_in_status = ""
+        self.subtasks = {}
+
 def get_issues(jql):
     """ Gets all issues from the jgl query into issues[] 
         Returns issues from the jql queie in json.

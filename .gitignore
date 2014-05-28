@@ -12,12 +12,13 @@
 # Ignore other unneeded files.
 database.yml
 doc/
+*.html
 *.json
 *.swp
+*.txt
 *~
 .project
+.pydevproject
 .DS_Store
 .idea
 .secret
-/jira_alert.pyc
-/jira_utils.pyc
