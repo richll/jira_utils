@@ -19,69 +19,80 @@ from email import Encoders
 from optparse import OptionParser
 import jira_utils
 
-class PrdIssue(jira_utils.IssueClass):
-    """Class objects to hold PRD issue attributes."""
-    def __init__(self):
-        self.new_features = [] # List of New Feature issue link issues (dictionaries)
+#class PrdIssue(jira_utils.IssueClass):
+#    """Class objects to hold PRD issue attributes."""
+#    def __init__(self):
+#        self.new_features = [] # List of New Feature issue link issues (dictionaries)
 
 class PrdReport:
     def __init__(self):
         self.config = "" # for ConfigParser
-        self.prd_issues = {}
-        self.prd_issues_list = []
-        self.prd_issue_objs = {} # Dictionary to hold PrdIssue objects, key is issue_id, value is a PrdIssue object
-        self.log_offset = 0 # How old in days the last log file is, added to each status days
-        self.prds = {} 
+        self.prds = {} # The final data structure holding PRDs, New Features and Subtasks
+#        self.new_features = {} # The data structure holding New Features
+#        self.subtask = {} # The data structure holding Subtasks
+        self.prd_issue_list = [] # List of PRD issues we get from the jql query
+        self.new_feature_issue_list = [] # List of New Feature issues we get from the jql query
+#        self.subtask_issue_list = [] # List of Subtask issues we get from the jql query
         self.output_file = "prd_report.csv"
-        self.search_step = 50
+#        self.search_step = 50 # Increment jql query "startat" variable this many
 
-    def build_dictionary(self):
+    def build_dictionaries(self):
         """ Gets issues from prd_issues_list = [] get id and description for PRD, New Feature and Subtasks issue types. 
-            Create hierarchical dictionary of PRD, New Feature and Subtasks.
+            Create hierarchical dictionaries of PRD, New Features and Subtasks.
             
-            PRD
-                New Feature
-                    Subtask
-                    Subtask
-                       .
-        """
+            self.prds['issue_id']['status']
+                                       ['summary']           
+                                       ['new_features']['issue_id']['status']  
+                                                                  ['summary']
+                                                                  ['subtasks']['issue_id']  
+                                                                              ['status']
+                                                                              ['summary']           
+         """
         
         # Start with PRDs at highest level, each item is an issue
-        for item in self.prd_issues_list:
-            self.prd_issues['issue_id'] = item['key']
-            print "PRD: %s" % self.prd_issues['issue_id']
-            self.prd_issues['issue_id'] = {}
-            self.prd_issues['issue_id']['summary'] = item['fields']['summary']
-            self.prd_issues['issue_id']['status'] = item['fields']['status']['name']
-            self.prd_issues['issue_id']['new_features'] = {}
+        # Put information from issues into dictionary
+        for item in self.prd_issue_list:
+            self.prds['issue_id'] = item['key']
+            print "PRD: %s" % self.prds['issue_id']
+            self.prds['issue_id'] = {}
+            self.prds['issue_id']['summary'] = item['fields']['summary']
+            self.prds['issue_id']['status'] = item['fields']['status']['name']
+            self.prds['issue_id']['new_features'] = {}
             
             # Put New feature issue links in next
             for issue_link in item['fields']['issuelinks']:
                 try:
                     if issue_link['inwardIssue']['fields']['issuetype']['name'] == "New Feature":
-                        self.prd_issues['issue_id']['new_features']['issued_id'] = issue_link['inwardIssue']['key']
-                        print self.prd_issues['issue_id']['new_features']['issued_id']
-                        self.prd_issues['issue_id']['new_features']['issued_id'] = {}
-                        self.prd_issues['issue_id']['new_features']['issued_id']['summary'] = issue_link['inwardIssue']['fields']['summary']
-                        self.prd_issues['issue_id']['new_features']['issued_id']['status'] = issue_link['inwardIssue']['fields']['status']['name']
-                        self.prd_issues['issue_id']['new_features']['issued_id']['subtasks'] = {}
+                        self.prds['issue_id']['new_features']['issue_id'] = issue_link['inwardIssue']['key']
+                        print self.prds['issue_id']['new_features']['issued_id']
+                        self.prds['issue_id']['new_features']['issue_id'] = {}
+                        self.prds['issue_id']['new_features']['issue_id']['summary'] = issue_link['inwardIssue']['fields']['summary']
+                        self.prds['issue_id']['new_features']['issue_id']['status'] = issue_link['inwardIssue']['fields']['status']['name']
+                        self.prds['issue_id']['new_features']['issue_id']['subtasks'] = {}
                 except KeyError: 
                     continue # Some issue links don't have the field "inwardIssue", skip those and continue
                 
-                # Now get the New feature issue to see the subtasks info for this New Feature
-                temp_issue = jira_utils.get_issue("'" + issue_link['inwardIssue']['key'] + "'") # Get the New Feature issue to see subtasks
+#            print self.prds    
+#            print json.dumps(self.prds, indent=4)    
+            # Now get the subtasks info for this New Feature, put in self.prds dictionary
+            for k, prd in self.prds.iteritems():
+                print "k: %s" % k # Like Titan-2028
+                print "prd: %s" % prd # dict
+                for nf in prd['new_features'].itervalues():
+                    print "nf: %s" % nf # Like Titan-2028
+                    for item in self.new_feature_issue_list:
+                        print "nf list item key: %s" % item['key']
+                        if item['key'] == nf:
+                            print item['key']
+                            print self.prds[k]['new_features'][nf]['subtasks']['issue_id']
+                            self.prds[k]['new_features'][nf]['subtasks']['issue_id'] = item['key']
+                            nf['subtasks']['issue_id']['summary'] = item['fields']['summary']
+                            nf['subtasks']['issue_id']['status'] = item['fields']['status']['name']
                 
-                for item in temp_issue['issues'][0]['fields']['subtasks']:
-                    self.prd_issues['issue_id']['new_features']['issued_id']['subtasks']['issued_id'] = item['key']
-                    self.prd_issues['issue_id']['new_features']['issued_id']['subtasks']['issued_id'] = {}
-                    self.prd_issues['issue_id']['new_features']['issued_id']['subtasks']['issued_id']['summary'] = item['fields']['summary']                                                                                     
-                    self.prd_issues['issue_id']['new_features']['issued_id']['subtasks']['issued_id']['status'] = item['fields']['status']['name']
-                                                                                                              
-                
-        print self.prd_issues    
+        print self.prds    
         
     def create_csv_file(self):
-        """ Using data from self.prd_issues create csv file of PRDs, New Features, Subtasks and their summaries and status.
+        """ Using data from self.prds create csv file of PRDs, New Features, Subtasks and their summaries and status.
         """
         
         print "Creating CSV file"
@@ -94,49 +105,49 @@ class PrdReport:
                                "Subtask ID", "Subtask Title", "Subtask State"]))
             
             # Write out the rest of the Excel rows
-            for prd in self.prd_issues.iteritems():
-                for new_feature in prd['new_features'].iteritems():
-                    for subtask in prd['new_features']['subtasks'].iteritems():
-                        outfile.write(",".join([prd['issue_id'], \
-                                           prd['issue_id']['summary'], \
-                                           prd['issue_id']['status'], \
-                                           prd['issue_id']['new_features']['issued_id'], \
-                                           prd['issue_id']['new_features']['issued_id']['summary'], \
-                                           prd['issue_id']['new_features']['issued_id']['status'],
-                                           prd['issue_id']['new_features']['issued_id']['subtasks']['issued_id'], \
-                                           prd['issue_id']['new_features']['issued_id']['subtasks']['issued_id']['summary'], \
-                                           prd['issue_id']['new_features']['issued_id']['subtasks']['issued_id']['status'], \
-                                           ])) # Writes one row in the file
- 
-    def create_prd_issue_objs(self):
-        """ Gets issues from self.issues[], make PrdIssue objects, put in self.prd_issue_objs dictionary.
-            Populate objects with data from their issue.
+            for prd in self.prds.itervalues():
+                print prd
+                for new_feature in prd['new_features'].itervalues():
+                    print new_feature
+                    for subtask in new_feature['subtasks'].itervalues():
+                        print subtask
+                        outfile.write(",".join([prd['issue_id'], prd['summary'], prd['status'], \
+                                                new_feature['issued_id'], new_feature['summary'], new_feature['status'],
+                                                subtask['issued_id'], subtask['summary'], subtask['status'] \
+                                                ])) # Writes one row in the file
+         
+    def get_issues(self):
+        """ Get PRDS, then get their New Feature links, then get the New Features  
+            Puts issues in self.prd_issue_list and self.new_feature_issue_list
+            Lists of issue dictionaries
         """
         
-        print "Creating PrdIssue objects"
-        # Create PrdIssue objects, add to prd_issue_objs dictionary
-        for issue in self.prd_issues:
-            pi = PrdIssue() # Create PrdIssue object for each PRD issue, assign data from issue to object's variables
-            pi.issue_id = issue['key']
-            pi.issue_type = issue['fields']['issuetype']['name']
-            pi.summary = issue['fields']['summary']
-            
-            # Get New Feature issue links, each one is a dictionary
-            for issue_link in issue['fields']['issuelinks']:
+        # Get prd new feature link ids, then we'll get those issues
+        jql =  '(("FL Project" = "G.1.0") and ((project = "Titan") or (project = "Griffin")) and (issuetype = "PRD"))'
+        print "Getting PRD issues"
+        print "jql: %s" % jql
+        self.prd_issue_list = list(jira_utils.get_issues(jql)) 
+        
+        # Get prd new feature link ids, then we'll get those issues
+        nf_link_ids = []
+
+        for item in self.prd_issue_list:
+            for issue_link in item['fields']['issuelinks']:
                 try:
                     if issue_link['inwardIssue']['fields']['issuetype']['name'] == "New Feature":
-#                        print "issue_link %s" % issue_link['inwardIssue']['key']
-                        pi.new_features.append(issue_link) # Append a dictionary to the list
-        #                    pdb.set_trace()
-                except KeyError: # Some issue links don't have the field "inwardIssue"
-                    pass
-
+                        nf_link_ids.append(issue_link['inwardIssue']['key']) # Add New feature id to list
+                except KeyError: 
+                    continue # Some issue links don't have the field "inwardIssue", skip those and continue
                 
-            self.prd_issue_objs[issue['key']] = pi # Add object to main object dictionary
-            
+        nf_link_ids_string = ",".join(sorted(nf_link_ids))
+        jql = 'key in (' + nf_link_ids_string + ')' # Like: key in ("Titan-1234", "Titan-5678")
         
+        print "Getting PRDs New Feature link issues"
+        print "jql: %s" % jql
+        self.new_feature_issue_list = list(jira_utils.get_issues(jql)) 
+                
     def send_email(self, recipients, files=[]):
-        """ Send it to recipients, recipients is a list
+        """ Send email to recipients, recipients is a list
             Files, if any, are attached
         
         """
@@ -159,7 +170,7 @@ class PrdReport:
         s.set_debuglevel(1)
         s.sendmail('jira.utils@lsi.com', recipients, msg.as_string())
         s.quit()
-    
+        
     def send_html_email(self, recipients, html_data, assignee=None):
         """ Put html_data in the body of an html email and send it to recipients 
             recipients is a list
@@ -189,7 +200,6 @@ class PrdReport:
         s.sendmail('jira.utils@lsi.com', recipients, msg.as_string())
         s.quit()
                
-#    def send_html_table(self, recipients):
     def send_html_table(self):
         """ Just make the email body (html) and pass to send_html_email() 
         """
@@ -202,7 +212,7 @@ class PrdReport:
         # Go thru all prd objects getting the PRDs, New Features and Subtasks
 #        for prd in sorted(self.prd_issue_objs.values()):
 #1        for prd_id in sorted(self.prd_issue_objs.keys()): # Sort PRDs by issue id (key)
-        for prd_issue in self.prd_issues:
+        for prd_issue in self.prds:
 #1            html_table += '<tr><td nowrap>PRD %s - %s</td></tr>' % (self.prd_issue_objs[prd_id].issue_id, self.prd_issue_objs[prd_id].summary)
             html_table += '<tr><td nowrap>PRD %s - %s</td></tr>' % (prd_issue['key'], prd_issue['fields']['summary'])
             # Get id and summary of PRD issue links (New Features)
@@ -249,15 +259,8 @@ def main(argv=None):
     except ConfigParser.ParsingError, error:
         print 'Error,', error
     
-    # The jira query that will get the issues we're interested in.
-    jql =  '(("FL Project" = "G.1.0") and ((project = "Titan") or (project = "Griffin")) and (issuetype = "PRD"))'
-#            (issuetype = PRD) or (issuetype = "New Feature") or (issuetype = Sub-task))'
-          
-    print "jql: %s" % jql
-        
-    pr.prd_issues_list = list(jira_utils.get_issues(jql)) # Gets issues using the jgl query (turn returned json into python list)
-    print "Number of issues: %s" % len(pr.prd_issues_list)
-    pr.build_dictionary() # Create hierarchical dictionary of PRD, New Feature and Subtasks.
+    pr.get_issues() # Get PRD and New Features.
+    pr.build_dictionaries() # Create hierarchical dictionary of PRD, New Feature and Subtasks.
     pr.create_csv_file() # Csv file of PRDs, New Features, Subtasks and their summaries and status
     pr.send_email() # Attaching the csv file
 
