@@ -391,12 +391,16 @@ def main(argv=None):
         print 'Error,', error
     
     # The jira query that will get the issues we're interested in.
-    jql = '(("FL Project" = "Griffin MP1") or ("FL Project" = "Griffin FP")) and ("project" = "TITAN") and \
-          (issuetype = "New Feature" and (status != "Open" or status != "In Progress" or status != "Reopened" or status != "Resolved" or status != "Closed") or \
+    jql = '(("FL Project" = "G.1.0") and ("project" = "TITAN") and \
+          (issuetype = "New Feature") and (status != "Open" or status != "In Progress" or status != "Reopened" or status != "Resolved" or status != "Closed") or \
           (issuetype = Sub-task and status = "In Progress"))'
 #              (issuetype = Sub-task and status = "In Progress"))' % self.options.fl_project
     print "jql: %s" % jql
         
+#    temp_issue = jira_utils.get_issue("TEST-114")
+#    print json.dumps(temp_issue, indent=4)
+#    sys.exit()
+    
     ja.issues = list(jira_utils.get_issues(jql)) # Gets issues using the jgl query (turn returned json into python list)
  
     print "Number of issues: %s" % len(ja.issues)

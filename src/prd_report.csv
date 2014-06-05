@@ -1,0 +1,1209 @@
+PRD ID,PRD Title,PRD State,New Feature ID,New Feature Title,New Feature State,Subtask ID,Subtask Title,Subtask State
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-982,Prototype re-write path ,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-984,Design/documetation for recycler change,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-1804,Physical read to utilize new BE fast path coding,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2081,Physical read to utilize new BE fast path debug,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2084,data path interface change,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2085,recovery utilize new I/F,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2086,RFS utilize new I/F,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2087,Error handle utilize new I/F,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2088,MST utilize new I/F,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2089,integreate test and debug,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2090,get rid of old path and merge AD,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2946,Sync GCU Firmware between FW_Griffin_AD and FW_Griffin_Int_Alpha2_Perf,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3316,format/init use new data path,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3318,new data path coding standard clean up,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3319,final path coding standard clean up and review,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3925,Raise Log utilize new I/F,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4180,merge Alpha 2 with AD,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4181,modify bottom write with new IF,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4198,BEPU RAISE Accumulaltion With New I/F,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4424,BBD utilize new I/F,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4425,coding new erase interface with new struture,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-5510,merge Program fail EH to new I/F,Closed
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-5653,debug pcsim environment for the new data path,Resolved
+TITAN-5987,Back End Buffer Allocation,Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-5875,new data path debug,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-982,Prototype re-write path ,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-984,Design/documetation for recycler change,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-1804,Physical read to utilize new BE fast path coding,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2081,Physical read to utilize new BE fast path debug,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2084,data path interface change,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2085,recovery utilize new I/F,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2086,RFS utilize new I/F,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2087,Error handle utilize new I/F,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2088,MST utilize new I/F,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2089,integreate test and debug,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2090,get rid of old path and merge AD,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-2946,Sync GCU Firmware between FW_Griffin_AD and FW_Griffin_Int_Alpha2_Perf,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-3316,format/init use new data path,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-3318,new data path coding standard clean up,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-3319,final path coding standard clean up and review,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-3925,Raise Log utilize new I/F,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-4180,merge Alpha 2 with AD,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-4181,modify bottom write with new IF,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-4198,BEPU RAISE Accumulaltion With New I/F,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-4424,BBD utilize new I/F,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-4425,coding new erase interface with new struture,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-5510,merge Program fail EH to new I/F,Closed
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-5653,debug pcsim environment for the new data path,Resolved
+TITAN-5986,Back End CPU API,Resolved,TITAN-2082,BE old data path clean up,Resolved,TITAN-5875,new data path debug,Resolved
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1030,Recycling Band selection (from hot to cold) (code & review),Resolved
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1032,Throttle Control for balancing recycling with host activity (design & review,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1033,Throttle Control for balancing recycling with host activity (code & review),Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1034,Throttle Control for balancing recycling with host activity (testing),Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-626,BE recycler error handler,Open,TITAN-1465,Review error handling requirements and get signoff from Architecture,Closed
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-626,BE recycler error handler,Open,TITAN-1466,BE recycler error handling analyze and design,Resolved
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-626,BE recycler error handler,Open,TITAN-1467,Implement and debug the error handling firmware code ,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-626,BE recycler error handler,Open,TITAN-1468,Test and review BE recycle error handling ,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-626,BE recycler error handler,Open,TITAN-6856,Recycle lower page immediately when programming error for upper page.,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-2607,Need feedback path from Free to Stats/Recycling to keep free entries in FRBMT.,Open,TITAN-4390,FRBMT/recycling interaction coding,In Progress
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-2607,Need feedback path from Free to Stats/Recycling to keep free entries in FRBMT.,Open,TITAN-4391,FRBMT/recycling interaction testing,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-5608,SBMU-BEPU recycler interface change,Open,TITAN-5609,Phase0 implementation for SBMU-BEPU recycler interface change,Resolved
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-5608,SBMU-BEPU recycler interface change,Open,TITAN-5611,Test Phase0 implementation for SBMU-BEPU recycler interface change for on-demand recycling,Resolved
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-5608,SBMU-BEPU recycler interface change,Open,TITAN-6873,Complete design for Phase 1 SBMU-BEPU recycler interface change,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-5608,SBMU-BEPU recycler interface change,Open,TITAN-6874,Implement Phase1 SBMU-BEPU recycler interface change,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-5608,SBMU-BEPU recycler interface change,Open,TITAN-6875,Test Phase1 implemenation of SBMU-BEPU recycler interface change,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-579,Map Rblock recycling via FLM crawl,Open,TITAN-1255,Review existing FLM based recycling code for completeness.,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-579,Map Rblock recycling via FLM crawl,Open,TITAN-1256,Implement control to select MAP recycling type.,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-579,Map Rblock recycling via FLM crawl,Open,TITAN-1257,Test FLM based recycling,Open
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-531,BE recycler performance tuning,Resolved,TITAN-980,BE recycler data path analyze and redesign ,Closed
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-531,BE recycler performance tuning,Resolved,TITAN-981,Prototype physical read path,Closed
+TITAN-5985,Recycle NAND Blocks,Open,TITAN-531,BE recycler performance tuning,Resolved,TITAN-983,Prototype implementation and debug ,Closed
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-581,Pfail recovery support,Open,TITAN-1260,P-Fail recovery after repeated p-Fails,Open
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-581,Pfail recovery support,Open,TITAN-1261,P-Fail logging strategy during repeated p-Fails,Open
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-581,Pfail recovery support,Open,TITAN-1262,P-Fail recovery with full p-fail circuit,Resolved
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-581,Pfail recovery support,Open,TITAN-1264,Reconstruct map and RUS data structures from data band,Open
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1517,Review epoch assignments,Resolved
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1518,Review checkpoint assignments,Resolved
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1519,SBMU function discover the map earliest-needed-epoch (MENE),In Progress
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1520,Setting FUA on BE requests (checkpoint/data path ops),Open
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1521,TRIM recovery support define identify and handle TRIM log messages,In Progress
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1525,Performance tuning recovery performance tuning,Open
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1526,Checkpoint write Write Scheduler,Resolved
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1527,Checkpoint write Read Scheduler,Resolved
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1528,Griffin Implementation Incremental Checkpoint as part of shutdown,Open
+TITAN-5984,Map Recovery after Unsafe Shutdown,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-2629,Checkpoint Training,Closed
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1152,Micron Bad Block - Study,Closed
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1153,Toshiba Bad Block Discovery method design and implementation.,Resolved
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1155,Intel Bad Block Discovery design and implementation,Open
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1159,Micron Bad Block - Design document,Resolved
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1160,Micron Bad Block - Design Review,Resolved
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1161,Micron Bad Block - BEPU Implementation,Open
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1162,Micron Bad Block - code review,Open
+TITAN-5766,Toshiba Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1163,Micron Bad Block - Test,Open
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1152,Micron Bad Block - Study,Closed
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1153,Toshiba Bad Block Discovery method design and implementation.,Resolved
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1155,Intel Bad Block Discovery design and implementation,Open
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1159,Micron Bad Block - Design document,Resolved
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1160,Micron Bad Block - Design Review,Resolved
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1161,Micron Bad Block - BEPU Implementation,Open
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1162,Micron Bad Block - code review,Open
+TITAN-5765,Micron Bad Block Discovery,Open,TITAN-560,GCU Micron/Toshiba/Intel Bad Block Discovery feature design and implementation.,Open,TITAN-1163,Micron Bad Block - Test,Open
+TITAN-5473,Alpha level debug support,Open,TITAN-480,BE change to support Panic Dump,Open,TITAN-750,Handling to avoid bepu write/erase operation halt during panic dump recording,Open
+TITAN-5473,Alpha level debug support,Open,TITAN-480,BE change to support Panic Dump,Open,TITAN-751,Interface of GCU for Panic Dump to get debug info from gimp  and also an interface of BEPU to halt a specific GIMP through writing CSR register,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-480,BE change to support Panic Dump,Open,TITAN-752,RFS strandalone reading CRR interface for Panic Dump Recovery in force download flashware mode,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-2638,Support DCF patch via DLMC process,Open,TITAN-5503,Write DCF Patch via DLMC - BE/Core work,Open
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1656,SCT command to update WWN serial number or any other setting in IDENT or DCF area ,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1658,MFB needed with new sections including DCF-Z and DCF M also definition for DCF-P header,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1957,Creation of DCF-Z using defaults from xml,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1959,Generate documentation from DCF description,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1960,Enhance FEPU to handle DCF-Z as overlay,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1962,Implement NVMe command to read and write DCF records ,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-3388,Update PRDtoXML spreadsheet with latest status,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-589,RPC Security features,Resolved,TITAN-2154,Convert RPC design doc to be word and include security,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-589,RPC Security features,Resolved,TITAN-2155,Implement RPC security framework,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-589,RPC Security features,Resolved,TITAN-2160,Implement RPC Broadcast Events,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-589,RPC Security features,Resolved,TITAN-2161,Integrate RPC security framework,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-589,RPC Security features,Resolved,TITAN-5917,Tied RPC security framework to RPC over SCT,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-589,RPC Security features,Resolved,TITAN-5918,Tied in RCP security framework to eCLI,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2316,Design diagnostic code for EEPROM programming,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2317,Implement  EEPROM programming backend ,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2318,Implement  Diagnostic EEPROM programming command handling code,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2319,Unit test  Diagnostic EEPROM programming code,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2320,Integration  Diagnostic EEPROM programming code,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-5884,Add a unit test to exercise new Titan Unit Test Framework,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-5962,CLONE - Unit test  Diagnostic EEPROM programming code,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2715,Panic Dump Extract/Status Commands,Resolved,TITAN-2786,Get Panic Dump Status Command,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2715,Panic Dump Extract/Status Commands,Resolved,TITAN-2787,Extract Panic Dump Command,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2715,Panic Dump Extract/Status Commands,Resolved,TITAN-2791,Unit test Get Panic Dump Status Command,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2715,Panic Dump Extract/Status Commands,Resolved,TITAN-2792,Integration Get Panic Dump Status Command,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2715,Panic Dump Extract/Status Commands,Resolved,TITAN-2793,Unit Test Extract Panic Dump Command,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-2715,Panic Dump Extract/Status Commands,Resolved,TITAN-2794,Integration Test Extract Panic Dump Command,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3242,Enhance SataSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3243,Enhance PcieSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3245,Enhance AhciSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3246,Enhance AtaSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3247,Enhance NvmeSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3248,Enhance FrontendSchema.xml file to meet config manager needs,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3249,Enhance CoreSchema.xml file to meet config manager needs,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3250,Enhance BackendSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3251,Enhance ConfigGimpSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3252,Enhance ConfigRootRecordSchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3253,Enhance FlashPolicySchema.xml file to meet config manager needs,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1366,Update design document,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1368,Design Diagnostic Extraction,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1373,Connect Panic dump to ASSERT,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1374,Implement Panic Dump Diagnostic API,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-1798,Design for log DIGs to NVM flash,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-1799,Prototype for Log DIGs to NVM Flash,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-1800,Unit Test for Log DIGs to NVM Flash,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-1801,Integration Test for Log DIGs to NVM Flash,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-2663,FE needs to notify SBMU of the supported HPA range for DIGS to NVM flash ,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-2664,Recovery needs to intiate loading of the flash control block for the DIGS to NVM flash,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-5763,Need to modify SbmuDcf.c to be able to load default values of FepuAdminNonUserLbaMap.h after they have been moved to FE dcf,Open
+TITAN-5473,Alpha level debug support,Open,TITAN-1797,Log DIGS to NVM Flash,Design,TITAN-5786,Add DCF entry for non-user LBA used by admin,Open
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1698,Design DCF FW parsing and handling ,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1699,Prototype coding for DCF FW parsing and handling,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1700,Unit Test for DCF FW parsing and handling,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1701,Integration test for DCF indexing library,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1961,Develop mechanism to write DCF-R  to RFS,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-3387,Port indexing library to Griffin firmware,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4067,DCF prototype library - review and design doc update,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4146,Design review and code modifications,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4155,Initial infrastructure port for new DCF API's,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4254,Push the new infrastructure for common DCF APIs for loading config structures,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4255,support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5171,CLONE - support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5964,FW to consume the configuration entries provided in DCF Schema xml files,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6113,Develop API to regenerate DCF-R from new ZMP,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6674,Update DCF documentation,Open
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6968,Initial support for DCF-P for integration with tools,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6990,PCIe vendor ID and Device ID to be in DCF-M for tools team,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7011,Initial support for DCF-P for integration with tools - Phase - 2,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7397,Phase2 - Develop API to regenerate DCF-R from new ZMP,In Progress
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4456,SataSchema,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4457,PcieSchema,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4458,AhciSchema,In Progress
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4459,AtaSchema,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4460,NVMeSchema,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4461,FrontendSchema,Resolved
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4462,CoreSchema,Closed
+TITAN-5473,Alpha level debug support,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-6848,DCF support for PCIe Init values in FW,Open
+TITAN-4387,SCT Command Support,Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1010,Develop Write Same command handler,Resolved
+TITAN-4387,SCT Command Support,Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1011,Develop SCT data table ,Resolved
+TITAN-4387,SCT Command Support,Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1012,Design Fast Path Support For SCT Write Same,Open
+TITAN-4387,SCT Command Support,Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1013,Implement Fast Path Support For SCT Write Same,Open
+TITAN-4387,SCT Command Support,Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1014,Implement temperature history log,Resolved
+TITAN-4289,System Event Log support,Open,TITAN-653,eLog Improvements,Open,TITAN-1607,Examine and make changes to log code,Open
+TITAN-4289,System Event Log support,Open,TITAN-653,eLog Improvements,Open,TITAN-2129,create elog panic dump documentation system,Resolved
+TITAN-4289,System Event Log support,Open,TITAN-653,eLog Improvements,Open,TITAN-6845,Add categorized assert infrastructure to elogs,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-350,SMART Read Data Attribute Threshold,Resolved
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-351,SMART Save Attribute Values,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-352,SMART Write Attribute Threshold,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-353,SMART Execute Offline Immediate,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-573,ATA Protocol Hint processing,Open,TITAN-1245,ATA Protocol Hint processing (host-generated hints),Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-573,ATA Protocol Hint processing,Open,TITAN-1458,ATA Exceptions Initialization Sequence (design),Closed
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-573,ATA Protocol Hint processing,Open,TITAN-1459,ATA Exceptions Initialization Sequence (code & review ,Closed
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-624,ATA Exception Handling Implementation,Open,TITAN-1460,ATA Exceptions Support for staggered spinup (Pin 11),Closed
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-624,ATA Exception Handling Implementation,Open,TITAN-1461,ATA Exceptions Implement GetErrorInfo ,Closed
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-624,ATA Exception Handling Implementation,Open,TITAN-1462,ATA Exceptions Implement UNC/DMA fail in exception engine - Coding,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-624,ATA Exception Handling Implementation,Open,TITAN-1463,ATA Exceptions Cleanup recipe method ,Closed
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-624,ATA Exception Handling Implementation,Open,TITAN-3311,ATA Exceptions Implement UNC/DMA fail in exception engine - Debug & Test,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-624,ATA Exception Handling Implementation,Open,TITAN-3368,Exception Engine revise to fit NVME requirement,Closed
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-643,ATA Flush Cache Command,Open,TITAN-1544,Integrate interface to completed ATA flush cache command,Resolved
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-643,ATA Flush Cache Command,Open,TITAN-2979,testing flush cache ata command,Resolved
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-1759,CLONE - Create Customer Specific Ata Cmds template in User Space,Open,TITAN-2768,Create Customer Specific Ata Cmds template in User Space - Coding,Open
+TITAN-4277,ATA Protocol Compliance,Open,TITAN-1759,CLONE - Create Customer Specific Ata Cmds template in User Space,Open,TITAN-2769,Create Customer Specific Ata Cmds template in User Space - Unit test,Open
+TITAN-4274,System Configurability Support,Open,TITAN-2638,Support DCF patch via DLMC process,Open,TITAN-5503,Write DCF Patch via DLMC - BE/Core work,Open
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1656,SCT command to update WWN serial number or any other setting in IDENT or DCF area ,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1658,MFB needed with new sections including DCF-Z and DCF M also definition for DCF-P header,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1957,Creation of DCF-Z using defaults from xml,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1959,Generate documentation from DCF description,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1960,Enhance FEPU to handle DCF-Z as overlay,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1962,Implement NVMe command to read and write DCF records ,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-3388,Update PRDtoXML spreadsheet with latest status,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3242,Enhance SataSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3243,Enhance PcieSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3245,Enhance AhciSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3246,Enhance AtaSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3247,Enhance NvmeSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3248,Enhance FrontendSchema.xml file to meet config manager needs,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3249,Enhance CoreSchema.xml file to meet config manager needs,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3250,Enhance BackendSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3251,Enhance ConfigGimpSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3252,Enhance ConfigRootRecordSchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3253,Enhance FlashPolicySchema.xml file to meet config manager needs,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1698,Design DCF FW parsing and handling ,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1699,Prototype coding for DCF FW parsing and handling,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1700,Unit Test for DCF FW parsing and handling,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1701,Integration test for DCF indexing library,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1961,Develop mechanism to write DCF-R  to RFS,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-3387,Port indexing library to Griffin firmware,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4067,DCF prototype library - review and design doc update,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4146,Design review and code modifications,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4155,Initial infrastructure port for new DCF API's,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4254,Push the new infrastructure for common DCF APIs for loading config structures,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4255,support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5171,CLONE - support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5964,FW to consume the configuration entries provided in DCF Schema xml files,Closed
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6113,Develop API to regenerate DCF-R from new ZMP,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6674,Update DCF documentation,Open
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6968,Initial support for DCF-P for integration with tools,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6990,PCIe vendor ID and Device ID to be in DCF-M for tools team,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7011,Initial support for DCF-P for integration with tools - Phase - 2,Resolved
+TITAN-4274,System Configurability Support,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7397,Phase2 - Develop API to regenerate DCF-R from new ZMP,In Progress
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-581,Pfail recovery support,Open,TITAN-1260,P-Fail recovery after repeated p-Fails,Open
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-581,Pfail recovery support,Open,TITAN-1261,P-Fail logging strategy during repeated p-Fails,Open
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-581,Pfail recovery support,Open,TITAN-1262,P-Fail recovery with full p-fail circuit,Resolved
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-581,Pfail recovery support,Open,TITAN-1264,Reconstruct map and RUS data structures from data band,Open
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1517,Review epoch assignments,Resolved
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1518,Review checkpoint assignments,Resolved
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1519,SBMU function discover the map earliest-needed-epoch (MENE),In Progress
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1520,Setting FUA on BE requests (checkpoint/data path ops),Open
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1521,TRIM recovery support define identify and handle TRIM log messages,In Progress
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1525,Performance tuning recovery performance tuning,Open
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1526,Checkpoint write Write Scheduler,Resolved
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1527,Checkpoint write Read Scheduler,Resolved
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-1528,Griffin Implementation Incremental Checkpoint as part of shutdown,Open
+TITAN-4260,Safe Shutdown and Power Cycling,Open,TITAN-637,Core checkpoint/recovery,Open,TITAN-2629,Checkpoint Training,Closed
+TITAN-4259,Manufacturing Flow,Open,TESTAUTOMATION-577,Integrating TCMS and DCF,Open,TESTAUTOMATION-578,TCMS / DCF Integration Design Document,Closed
+TITAN-4259,Manufacturing Flow,Open,TESTAUTOMATION-577,Integrating TCMS and DCF,Open,TESTAUTOMATION-579,TCMS / DCF Create API(s) to extract DCF-M values files from TCMS,Open
+TITAN-4259,Manufacturing Flow,Open,TESTAUTOMATION-577,Integrating TCMS and DCF,Open,TESTAUTOMATION-580,TCMS / DCF Integrate TCMS into FW build (as per design document,In Progress
+TITAN-4259,Manufacturing Flow,Open,TESTAUTOMATION-577,Integrating TCMS and DCF,Open,TESTAUTOMATION-581,TCMS / DCF Implement TCMS branching and versioning to support FW release,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-444,Formatting with the wrong configuration should fail gracefully,Open,TITAN-4797,Design Format reporting framework,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-444,Formatting with the wrong configuration should fail gracefully,Open,TITAN-4798,Add graceful error handling during format to BEPU,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-444,Formatting with the wrong configuration should fail gracefully,Open,TITAN-4801,Add graceful error handling during format to Core,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-647,ATA Read Only,Open,TITAN-1567,Special drive behaviors (Read only),Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-647,ATA Read Only,Open,TITAN-1569,Remove support for Illegal FISs (remove debug interface),Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-647,ATA Read Only,Open,TITAN-2763,SATA BIST transmit method for Manufacturing Self Test.,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-1721,Feature to provide 64KB (not 128 KB) space for OROM+UEFI combined image.,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2164,design firmware/manufacturing ball to include optionrom,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2165,implementation of including optionrom with mfb,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2166,unit test of including optionrom with mfb,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2167,integration testing of including optionrom with mfb,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2183,SMART attribute #1 Grown Bad Block Count/Reallocated Sector Count -05h/AAh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2184,SMART attribute #2 Unexpected Power Loss Count - AEh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2185,SMART attribute #3 Power-On Hours - 09h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2186,SMART attribute #4 Power Cycle Count - 0Ch,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2187,SMART attribute code clean,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2188,SMART attribute #6 Power Fail Event Count - 0Bh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2189,SMART attribute #7 Lifetime Flash Erases - 64h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2190,SMART attribute #8 Lifetime DevSleep Exit Count - 65h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2191,SMART attribute #9 Lifetime PS4 Entry Count - 66h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2192,SMART attribute #10 Lifetime PS3 Entry Count - 66h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2193,SMART attribute #11 Program Fail Count - ABh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2194,SMART attribute #12 Erase Failure Count - ACh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2195,SMART attribute #13 Average Program/Erase Count - ADh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2196,SMART attribute #14 Wear Range Delta - B1h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2197,SMART attribute #15 SATA/PCIe Interface Downshift Count - B7h,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2198,SMART attribute #16 End-To-End CRC Error Count - B8h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2199,SMART attribute #17 Uncorrectable ECC Count - BBh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2200,SMART attribute #18 Primary Temperature - C2h,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2201,SMART attribute #19 RAISE ECC Correctable Count - C3h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2202,SMART attribute #20 Uncorrectable Read Error Count - BBh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2203,SMART attribute #21 SATA R-Error (CRC) Error Count [SATA ONLY] - C7h,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2204,SMART attribute #22 Drive Life Protection Status - E6h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2205,SMART attribute #23 SSD Life Left - E8h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2206,SMART attribute #24 Available Reserved Space - E8h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2207,SMART attribute #25 Lifetime Writes to Flash - E9h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2208,SMART attribute #26 Lifetime Writes from Host - F1h,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2209,SMART attribute #27 Lifetime Reads from Host - F2h,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2210,SMART attribute #28 Free Space - F3h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2211,SMART attribute #29 Perfect Attribute,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2212,SMART attribute #30 End-To-End CRC Error Count for HP - B8h,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2213,SMART attribute #31 Airflow Temperature Attribute for HP - BEh,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2214,SMART attribute #32,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2215,SMART attribute #33,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2216,SMART attribute #34,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2217,SMART attribute #35,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2218,SMART attribute #36,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2219,SMART attribute #37,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2220,SMART attribute #38,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2221,SMART attribute #39,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2222,SMART attribute #40,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2223,SMART attribute #41,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2224,SMART attribute #42,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2225,SMART attribute #43,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2226,SMART attribute #44,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2227,SMART attribute #45,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2228,SMART attribute #46,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2229,SMART attribute #47,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2230,SMART attribute #48,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2231,SMART attribute #49,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2232,SMART attribute #50,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6566,SMART attribute #13 Average Program/Erase Count - RPC service,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6567,SMART attribute #2 Unexpected Power Loss Count - RPC service,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6568,SMART attribute #14 Wear Range Delta - RPC Service,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6569,SMART attribute #23 SSD Life Left - RPC service,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6570,SMART attribute #24 Available Reserved Space - RPC service,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6571,Power On Hours Feature and interface support ,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6757,Give the ERROR statistics  info in the bepu RPC server,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6814,Fepu Statistics Information documentation,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-7442,TITAN-2182/Smart data flush task run PM state is not correct as the PM state is not normal ,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-7511,Security Erase should not affect non-user accessible area,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2638,Support DCF patch via DLMC process,Open,TITAN-5503,Write DCF Patch via DLMC - BE/Core work,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1656,SCT command to update WWN serial number or any other setting in IDENT or DCF area ,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1658,MFB needed with new sections including DCF-Z and DCF M also definition for DCF-P header,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1957,Creation of DCF-Z using defaults from xml,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1959,Generate documentation from DCF description,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1960,Enhance FEPU to handle DCF-Z as overlay,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1962,Implement NVMe command to read and write DCF records ,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-3388,Update PRDtoXML spreadsheet with latest status,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-2937,Move Grown Defect Log to Manufacture Bad Block,Open,TITAN-1138,API: move Grown Defect Log to Manufacture Bad Block Table development,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-2937,Move Grown Defect Log to Manufacture Bad Block,Open,TITAN-1139,API: move Grown Defect Log to Manufacture Bad Block Table test and review,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-5476,Option ROM firmware protection,Open,TITAN-5477,OpRom Protection - Design,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-5476,Option ROM firmware protection,Open,TITAN-5478,OpRom Protection - Code/Unit Test,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-6107,Update DCF framework to handle RE WE bits,Open,TITAN-3389,Modify schemas with new 12 bit key values,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-6107,Update DCF framework to handle RE WE bits,Open,TITAN-6108,Define 12 bit key structure and tracking mechanism,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-6107,Update DCF framework to handle RE WE bits,Open,TITAN-6109,Define mechanism for providing RE WE information,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-6107,Update DCF framework to handle RE WE bits,Open,TITAN-6110,Modify tools/scripts to handle WE RE,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-6107,Update DCF framework to handle RE WE bits,Open,TITAN-6111,Modify FW to handle RE WE bits,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-6107,Update DCF framework to handle RE WE bits,Open,TITAN-6112,Review & testing,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-2252,design/document,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-2253,coding,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-2254,debugging,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-3991,Integration with RFS format,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1698,Design DCF FW parsing and handling ,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1699,Prototype coding for DCF FW parsing and handling,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1700,Unit Test for DCF FW parsing and handling,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1701,Integration test for DCF indexing library,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1961,Develop mechanism to write DCF-R  to RFS,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-3387,Port indexing library to Griffin firmware,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4067,DCF prototype library - review and design doc update,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4146,Design review and code modifications,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4155,Initial infrastructure port for new DCF API's,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4254,Push the new infrastructure for common DCF APIs for loading config structures,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4255,support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5171,CLONE - support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5964,FW to consume the configuration entries provided in DCF Schema xml files,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6113,Develop API to regenerate DCF-R from new ZMP,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6674,Update DCF documentation,Open
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6968,Initial support for DCF-P for integration with tools,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6990,PCIe vendor ID and Device ID to be in DCF-M for tools team,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7011,Initial support for DCF-P for integration with tools - Phase - 2,Resolved
+TITAN-4259,Manufacturing Flow,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7397,Phase2 - Develop API to regenerate DCF-R from new ZMP,In Progress
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-4245,BE MST: Debug and Test with new data path,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-4246,BE MST: save PEC after MST done,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-4247,SBMU MST: save ELOG,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-4248,BE MST: test by using MP Tool,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-4249,FE&BE MST: PHY control ,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-6141,SBMU two stages format support,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-7233,MST panic mode,Closed
+TITAN-4259,Manufacturing Flow,Open,TITAN-4244,MST minor features,Assessment,TITAN-7235,Debug with TOSHIBA 4-Plane flash dimm,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-691,Page Cache optimization design and review,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-692,Page Cache optimization coding,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-693,Page Cache optimization debug and test,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-694,Page Cache optimization optimization requirements review,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-695,support to add recovered data into page cache buffer,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-4407,Cache LRU coding,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-4422,add UECC cache bitmap,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-465,BE Page Cache optimization,Open,TITAN-7296,BEPU Read Error Handling page cache,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-755,Performance tuning write path coding,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-756,Performance tuning read path coding,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-757,Data path exception handler Design,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-758,data path exception handler code development,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-759,Performance tuning productionlize data path code complete,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-760,Data path exception handler verification,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-2949,Performance tuning analysis seq write,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-2950,Tuning FIFO depths and watermarks,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-482,BE Performance tuning- phase II,Open,TITAN-3240,Enhancing TIE utilization ,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-1168,SIF SSSD Timers/Performance measurement tool (design),Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-1169,SIF SSSD Timers/Performance measurement tool (code & review),Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-1176,FHB Buffer Management for all operations - optimization,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-1177,FEB Buffer Management for all operations - optimization,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-1184,Metadata Handling Optimizations: Optimize for out-of-order delivery,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-1185,Metadata Handling Optimizations: Fully utilize MetadataInfo data structure,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-3870,FEPU Fast path performance tuning,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-3871,SATA change for performance tuning,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-3872,AHCI change for performance tuning,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-3869,Frontend Performance related tasks,Open,TITAN-5384,SATA Deadlock Prevention Implementation: Range Check Phase 2,Open
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-830,Cached NAND Read/Program (Document requirements get sign-off from Architecture),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-831,Cached NAND Read/Program (Design of framework documentation),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-832,Micron - Cached NAND Read (Implement Framework),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-833,Micron - Cached NAND Read (Test Framework on simulator),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-834,Micron - Cached NAND Read (Code Review Framework),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-835,Intel - Cached NAND Read/Program (Implement specific for Intel),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-836,Toshiba/SanDisk - Cached NAND Read/Program (Implement specific for Toshiba/SanDisk),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-837,Hynix - Cached NAND Read/Program (Implement specific for Hynix),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-838,Non-Micron - Cached NAND Program,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-839,Micron - Cached Read - Performance tuning,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-840,Micron - Cached NAND Program (Implement Framework),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-841,Micron - Cached NAND Program (Test Framework),Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-842,Micron - Cached NAND Read/Program Design Rework,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-843,Micron - Cached NAND Read/Program Design Doc update,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-844,Micron - Cached Program -Code Review & rework,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2110,Micron - Cache Read testing on ASIC,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2800,Micron - cache Read - Perf Stream Integration & Review,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2801,Micron - cache program - coding,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2802,Micron - Cached Program - Performance tuning,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-3259,IOMeter cache read performance measurement,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-3867,GCU needs to do single-plane read if only necessary data is read out,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5379,Program cache Autopromote Pre test and Verification of Program cache for Sandisk/Toshiba,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5564,Program cache command support Code review and rework,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5878,Promote read cache code to AD,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-6182,Promote read cache support code to AD,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-982,Prototype re-write path ,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-984,Design/documetation for recycler change,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-1804,Physical read to utilize new BE fast path coding,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2081,Physical read to utilize new BE fast path debug,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2084,data path interface change,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2085,recovery utilize new I/F,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2086,RFS utilize new I/F,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2087,Error handle utilize new I/F,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2088,MST utilize new I/F,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2089,integreate test and debug,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2090,get rid of old path and merge AD,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-2946,Sync GCU Firmware between FW_Griffin_AD and FW_Griffin_Int_Alpha2_Perf,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3316,format/init use new data path,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3318,new data path coding standard clean up,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3319,final path coding standard clean up and review,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-3925,Raise Log utilize new I/F,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4180,merge Alpha 2 with AD,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4181,modify bottom write with new IF,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4198,BEPU RAISE Accumulaltion With New I/F,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4424,BBD utilize new I/F,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-4425,coding new erase interface with new struture,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-5510,merge Program fail EH to new I/F,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-5653,debug pcsim environment for the new data path,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-2082,BE old data path clean up,Resolved,TITAN-5875,new data path debug,Resolved
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-709,AHCI HIF Info Design,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-711,Speculatively request HIF info per chunk,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-713,Return control to the fast path while waiting on the DFU for HIF info,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-714,Integrate NBA into current HIF info buffer allocation,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-715,AHCI GetHifInfo rework testing and verification,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-716,AHCI HIF Info code review,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-717,AHCI HIF Info code review,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-718,AHCI HIF Info code review,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-1795,AHCI Transport HIFINFO performance tuning,In Progress
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-2388,Create generic API to allocate and deallocate resources for HIF Info,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-2951,Investigate 4K random Performance,Closed
+TITAN-4258,Performance and Stability (70%),Open,TITAN-469,AHCI Transport - HIF Info performance rework,Code,TITAN-2952,HIF info clock cycle count improvements,In Progress
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1218,Griffin ATA Security: Save / Restore XTS Global Key and Lock Bits to HW (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1219,Griffin ATA Security: Save / Restore XTS Global Key and Lock Bits for COMRESET (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1222,Griffin ATA Security: Security State Transitions Test (unit test),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1473,Verify Security Feature set (without Security Erase) through real power cycle / Hw/Sw reset,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1556,Griffin ATA Security Sprint 2 (design),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1557,Griffin ATA Security Sprint 4: MFB Initialization (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1558,Griffin ATA Security Sprint 4: Power Up (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1559,Griffin ATA Security Sprint 4: Ata Security Feature Set (Set Password Unlock Disable Freeze Lock and Security Erase Unit,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1560,Griffin ATA Security Sprint 4: Unlock support (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1561,Griffin ATA Security Sprint 4: Disable Password support (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1562,Griffin ATA Security Sprint 4: Freeze Lock (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1563,Griffin ATA Security Sprint 4: Security Erase Unit (prototype),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1564,Griffin ATA Security regression (unit test),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1802,CLONE - Griffin ATA Security Sprint 4: Ata Security Feature Set (Set Password Unlock Disable Freeze Lock and Security Erase Unit,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-2788,Test ATA Security key hierarchy on FPGA or SSD hardware (unit test),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3238,Griffin ATA Security Use Common Security APIs,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3293,Add query function to query Security Enabled State for TCG,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3326,Add function to return DK,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3997,Expand size of MEK to include root-key-derivative wrapping.,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-4377,Integration test of ATA security with full hardware support (keys and ranges),Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-4808,Fix Ata Security build errors,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-5367,Fix Ata Security bugs found during hardware testing,Closed
+TITAN-2723,ATA Security:  Security Set Password (SSP),Resolved,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-5722,Restructure code for supportability and consolidation of key functions.,Closed
+TITAN-2682,Volume Addressing Support for Toshiba NAND,Open,TITAN-4252,CE Reduction Support (like Volume Addressing) for Toshiba NAND,Test,TITAN-4253,understand HW function,Closed
+TITAN-2682,Volume Addressing Support for Toshiba NAND,Open,TITAN-4252,CE Reduction Support (like Volume Addressing) for Toshiba NAND,Test,TITAN-5506,design CE reduction ,Resolved
+TITAN-2682,Volume Addressing Support for Toshiba NAND,Open,TITAN-4252,CE Reduction Support (like Volume Addressing) for Toshiba NAND,Test,TITAN-5507,coding CE reduction ,Closed
+TITAN-2682,Volume Addressing Support for Toshiba NAND,Open,TITAN-4252,CE Reduction Support (like Volume Addressing) for Toshiba NAND,Test,TITAN-5508,testing CE reduction ,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2183,SMART attribute #1 Grown Bad Block Count/Reallocated Sector Count -05h/AAh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2184,SMART attribute #2 Unexpected Power Loss Count - AEh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2185,SMART attribute #3 Power-On Hours - 09h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2186,SMART attribute #4 Power Cycle Count - 0Ch,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2187,SMART attribute code clean,Resolved
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2188,SMART attribute #6 Power Fail Event Count - 0Bh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2189,SMART attribute #7 Lifetime Flash Erases - 64h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2190,SMART attribute #8 Lifetime DevSleep Exit Count - 65h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2191,SMART attribute #9 Lifetime PS4 Entry Count - 66h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2192,SMART attribute #10 Lifetime PS3 Entry Count - 66h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2193,SMART attribute #11 Program Fail Count - ABh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2194,SMART attribute #12 Erase Failure Count - ACh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2195,SMART attribute #13 Average Program/Erase Count - ADh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2196,SMART attribute #14 Wear Range Delta - B1h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2197,SMART attribute #15 SATA/PCIe Interface Downshift Count - B7h,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2198,SMART attribute #16 End-To-End CRC Error Count - B8h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2199,SMART attribute #17 Uncorrectable ECC Count - BBh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2200,SMART attribute #18 Primary Temperature - C2h,Resolved
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2201,SMART attribute #19 RAISE ECC Correctable Count - C3h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2202,SMART attribute #20 Uncorrectable Read Error Count - BBh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2203,SMART attribute #21 SATA R-Error (CRC) Error Count [SATA ONLY] - C7h,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2204,SMART attribute #22 Drive Life Protection Status - E6h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2205,SMART attribute #23 SSD Life Left - E8h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2206,SMART attribute #24 Available Reserved Space - E8h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2207,SMART attribute #25 Lifetime Writes to Flash - E9h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2208,SMART attribute #26 Lifetime Writes from Host - F1h,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2209,SMART attribute #27 Lifetime Reads from Host - F2h,Resolved
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2210,SMART attribute #28 Free Space - F3h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2211,SMART attribute #29 Perfect Attribute,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2212,SMART attribute #30 End-To-End CRC Error Count for HP - B8h,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2213,SMART attribute #31 Airflow Temperature Attribute for HP - BEh,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2214,SMART attribute #32,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2215,SMART attribute #33,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2216,SMART attribute #34,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2217,SMART attribute #35,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2218,SMART attribute #36,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2219,SMART attribute #37,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2220,SMART attribute #38,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2221,SMART attribute #39,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2222,SMART attribute #40,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2223,SMART attribute #41,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2224,SMART attribute #42,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2225,SMART attribute #43,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2226,SMART attribute #44,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2227,SMART attribute #45,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2228,SMART attribute #46,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2229,SMART attribute #47,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2230,SMART attribute #48,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2231,SMART attribute #49,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2232,SMART attribute #50,Closed
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6566,SMART attribute #13 Average Program/Erase Count - RPC service,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6567,SMART attribute #2 Unexpected Power Loss Count - RPC service,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6568,SMART attribute #14 Wear Range Delta - RPC Service,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6569,SMART attribute #23 SSD Life Left - RPC service,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6570,SMART attribute #24 Available Reserved Space - RPC service,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6571,Power On Hours Feature and interface support ,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6757,Give the ERROR statistics  info in the bepu RPC server,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6814,Fepu Statistics Information documentation,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-7442,TITAN-2182/Smart data flush task run PM state is not correct as the PM state is not normal ,Open
+TITAN-2671,SMART Attributes,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-7511,Security Erase should not affect non-user accessible area,Open
+TITAN-2007,Padding of programmed data in GCU FW (FW workaround for NEPT-37),Closed,TITAN-489,GCU Pad random pattern in LDPC encloder,Closed,TITAN-790,Design for padding random data for LDPC,Closed
+TITAN-2007,Padding of programmed data in GCU FW (FW workaround for NEPT-37),Closed,TITAN-489,GCU Pad random pattern in LDPC encloder,Closed,TITAN-791,Testing for random pattern padding for LDPC,Closed
+TITAN-2007,Padding of programmed data in GCU FW (FW workaround for NEPT-37),Closed,TITAN-489,GCU Pad random pattern in LDPC encloder,Closed,TITAN-792,Code space optimization for random pattern padding for LDPC,Closed
+TITAN-2007,Padding of programmed data in GCU FW (FW workaround for NEPT-37),Closed,TITAN-489,GCU Pad random pattern in LDPC encloder,Closed,TITAN-4196,Gcu should padding random bytes to flash internally for fractional raise usage.,Closed
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-830,Cached NAND Read/Program (Document requirements get sign-off from Architecture),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-831,Cached NAND Read/Program (Design of framework documentation),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-832,Micron - Cached NAND Read (Implement Framework),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-833,Micron - Cached NAND Read (Test Framework on simulator),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-834,Micron - Cached NAND Read (Code Review Framework),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-835,Intel - Cached NAND Read/Program (Implement specific for Intel),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-836,Toshiba/SanDisk - Cached NAND Read/Program (Implement specific for Toshiba/SanDisk),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-837,Hynix - Cached NAND Read/Program (Implement specific for Hynix),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-838,Non-Micron - Cached NAND Program,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-839,Micron - Cached Read - Performance tuning,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-840,Micron - Cached NAND Program (Implement Framework),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-841,Micron - Cached NAND Program (Test Framework),Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-842,Micron - Cached NAND Read/Program Design Rework,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-843,Micron - Cached NAND Read/Program Design Doc update,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-844,Micron - Cached Program -Code Review & rework,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2110,Micron - Cache Read testing on ASIC,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2800,Micron - cache Read - Perf Stream Integration & Review,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2801,Micron - cache program - coding,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2802,Micron - Cached Program - Performance tuning,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-3259,IOMeter cache read performance measurement,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-3867,GCU needs to do single-plane read if only necessary data is read out,Closed
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5379,Program cache Autopromote Pre test and Verification of Program cache for Sandisk/Toshiba,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5564,Program cache command support Code review and rework,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5878,Promote read cache code to AD,Resolved
+TITAN-2003,NAND Cached WRITE Support,Closed,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-6182,Promote read cache support code to AD,Resolved
+TITAN-2001,Data Path:  Interrupt Aggregation,Open,TITAN-2043,Host Interface Interrupt Aggregation: AHCI,Open,TITAN-2857,Implement Host Interface Interrupt Aggregation : AHCI,Open
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-2638,Support DCF patch via DLMC process,Open,TITAN-5503,Write DCF Patch via DLMC - BE/Core work,Open
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1698,Design DCF FW parsing and handling ,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1699,Prototype coding for DCF FW parsing and handling,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1700,Unit Test for DCF FW parsing and handling,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1701,Integration test for DCF indexing library,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1961,Develop mechanism to write DCF-R  to RFS,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-3387,Port indexing library to Griffin firmware,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4067,DCF prototype library - review and design doc update,Closed
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4146,Design review and code modifications,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4155,Initial infrastructure port for new DCF API's,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4254,Push the new infrastructure for common DCF APIs for loading config structures,Closed
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4255,support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5171,CLONE - support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5964,FW to consume the configuration entries provided in DCF Schema xml files,Closed
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6113,Develop API to regenerate DCF-R from new ZMP,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6674,Update DCF documentation,Open
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6968,Initial support for DCF-P for integration with tools,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6990,PCIe vendor ID and Device ID to be in DCF-M for tools team,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7011,Initial support for DCF-P for integration with tools - Phase - 2,Resolved
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7397,Phase2 - Develop API to regenerate DCF-R from new ZMP,In Progress
+TITAN-1695,Diagnostics API: Device Configuration File Handling,Open,TITAN-6056,Support DCF patch through diagnostic command,Assessment,TITAN-5504,Write DCF Patch via Diag command,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-1721,Feature to provide 64KB (not 128 KB) space for OROM+UEFI combined image.,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2164,design firmware/manufacturing ball to include optionrom,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2165,implementation of including optionrom with mfb,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2166,unit test of including optionrom with mfb,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2163,Integrate OROM in manufacturing firmware package,Open,TITAN-2167,integration testing of including optionrom with mfb,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-5476,Option ROM firmware protection,Open,TITAN-5477,OpRom Protection - Design,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-5476,Option ROM firmware protection,Open,TITAN-5478,OpRom Protection - Code/Unit Test,Open
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-513,OpROM EFI Driver Flashing tool for AHCI & NVMe,Closed,TITAN-2766,OpRom/EFI Flashing Tool - Design,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-513,OpROM EFI Driver Flashing tool for AHCI & NVMe,Closed,TITAN-2767,OpRom/EFI Flashing Tool - Code/Test,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-2526,Option ROM - Code Review - stage2,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-2527,Option ROM - High Level Design - stage3,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-2528,Option ROM - Coding - Stage3,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-2529,Option ROM - Unit Test - Stage3,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-2530,Option ROM - Code Review - stage3,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-3377,Option ROM - Design & coding - Stage 4,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-3378,Option ROM - Review & Testing - Stage 4,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-3379,Option ROM - Rework & Release - Stage 4,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-3380,Option ROM - Doc update,Closed
+TITAN-1693,Need a method to include OPTION ROM into Firmware,Open,TITAN-2779,Option ROM 128KB,Closed,TITAN-3381,Option ROM - Doc review & rework,Closed
+TITAN-1629,Boot Response Requirements,Open,TITAN-6034,RFS and ROM performance tuning,Open,TITAN-6417,Get ROM working on GRAMx,Open
+TITAN-1629,Boot Response Requirements,Open,TITAN-6034,RFS and ROM performance tuning,Open,TITAN-6418,Analyze trace and identify improvements for ROM,Open
+TITAN-1629,Boot Response Requirements,Open,TITAN-6034,RFS and ROM performance tuning,Open,TITAN-6419,Analyze trace and identify improvements for RFS (flashware operation),Open
+TITAN-1629,Boot Response Requirements,Open,TITAN-2764,Stress Test A1 Parts with powering off/on the Core - Requries Fast Boot Patch or FIB'd part,Resolved,TITAN-3212,Create A0/A1 fast boot patch binary.,Closed
+TITAN-1629,Boot Response Requirements,Open,TITAN-2764,Stress Test A1 Parts with powering off/on the Core - Requries Fast Boot Patch or FIB'd part,Resolved,TITAN-3213,Modify FwBall creation tool to all injecting a binary file to look like an overlay.,Resolved
+TITAN-1629,Boot Response Requirements,Open,TITAN-2764,Stress Test A1 Parts with powering off/on the Core - Requries Fast Boot Patch or FIB'd part,Resolved,TITAN-3214,Load fast boot patch into fast boot object using overlay mechanism.,Resolved
+TITAN-1629,Boot Response Requirements,Open,TITAN-2764,Stress Test A1 Parts with powering off/on the Core - Requries Fast Boot Patch or FIB'd part,Resolved,TITAN-4802,Investigate FIB part to use in validating the Griffin Power Cycle hardware and firmware,Resolved
+TITAN-336,SMART General Purpose and Other Logs,Open,TITAN-612,Core Diagnostic RPC Implementations (Map Lookup full drive recovery and admin statistics),Open,TITAN-1383,Diagnostic Framework RPCs for executing map lookups,Open
+TITAN-336,SMART General Purpose and Other Logs,Open,TITAN-612,Core Diagnostic RPC Implementations (Map Lookup full drive recovery and admin statistics),Open,TITAN-1384,Diagnostic Framework RPCs for transmitting data to SMART/Admin stack,Open
+TITAN-336,SMART General Purpose and Other Logs,Open,TITAN-612,Core Diagnostic RPC Implementations (Map Lookup full drive recovery and admin statistics),Open,TITAN-1385,Diagnostic Framework RPCs for full drive recovery,Open
+TITAN-333,Drive Manufacturing Sequence,Open,TITAN-625,Document Complete Format Process,Open,TITAN-1464,Documentation for format process,In Progress
+TITAN-329,Read Scrub,Open,TITAN-478,Read scrub code rate test,Open,TITAN-747,Code review for RSCR,Resolved
+TITAN-329,Read Scrub,Open,TITAN-478,Read scrub code rate test,Open,TITAN-748,Unit test to verify basic function of RSCR,Resolved
+TITAN-329,Read Scrub,Open,TITAN-478,Read scrub code rate test,Open,TITAN-749,Use DriveMaster/SSDT scripts to verify RSCR more thoroughly,Open
+TITAN-329,Read Scrub,Open,TITAN-5692,Core support for read scrub,Open,TITAN-5693,Read scrub: core support design,In Progress
+TITAN-329,Read Scrub,Open,TITAN-613,Read scrub Flash Policy -- BEPU part,Test,TITAN-1386,Code review for Read scrub,Resolved
+TITAN-329,Read Scrub,Open,TITAN-613,Read scrub Flash Policy -- BEPU part,Test,TITAN-1387,Verify Read scrub triggers and works as expected.,Resolved
+TITAN-329,Read Scrub,Open,TITAN-613,Read scrub Flash Policy -- BEPU part,Test,TITAN-5514,Modify read scrub according to CORE design and MP1 changes,Resolved
+TITAN-315,ATA Feature Set:  48-bit addressing,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6809,ATA Protocol NCQ Send/Receive Handling ,Closed
+TITAN-315,ATA Feature Set:  48-bit addressing,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6810,ATA Protocol Trim Processing (Fast Path),Resolved
+TITAN-315,ATA Feature Set:  48-bit addressing,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6811,ATA Protocol MULTIPLE handling (coding & review),Closed
+TITAN-315,ATA Feature Set:  48-bit addressing,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-9450,Return D2H fis with error bit set on Data Set Management command until Trim is supported.,Closed
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1030,Recycling Band selection (from hot to cold) (code & review),Resolved
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1032,Throttle Control for balancing recycling with host activity (design & review,Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1033,Throttle Control for balancing recycling with host activity (code & review),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-541,Core Recycling Throttle Control Band Selection Erase Barrier,Open,TITAN-1034,Throttle Control for balancing recycling with host activity (testing),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-546,BE Power/Performance throttling Control,Open,TITAN-1074,GCU power throttling (gather requirements),Closed
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-546,BE Power/Performance throttling Control,Open,TITAN-1075,BEPU bottom layer power throttling (design),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-546,BE Power/Performance throttling Control,Open,TITAN-1076,BEPU bottom layer power throttling (code & review),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-546,BE Power/Performance throttling Control,Open,TITAN-1077,BEPU bottom layer power throttling (eCLI test bench that runs IOMeter and throttles at different levels),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-546,BE Power/Performance throttling Control,Open,TITAN-1078,BEPU bottom layer power throttling (test functionality and performance),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-546,BE Power/Performance throttling Control,Open,TITAN-2091,Flash power throttling RPC service function required by admin,Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-2865,FEPU Fast Path Performance Throttling Implementation,Open,TITAN-1165,Performance throttling by OpTag reservation (interface to MPU) (coding & review),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-2865,FEPU Fast Path Performance Throttling Implementation,Open,TITAN-1429,Chunker Performance throttling Design (design),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-2865,FEPU Fast Path Performance Throttling Implementation,Open,TITAN-1430,Chunker Performance throttling by OpTag reservation (coding & review),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-2865,FEPU Fast Path Performance Throttling Implementation,Open,TITAN-1441,Chunker Performance tuning,Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-2866,Chunker Performance throttling using BE resource counting (code & review),Open,TITAN-1421,Chunker Performance throttling using BE resource counting (code & review),Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-7239,FEPU Thermal Throttling ,Pending,TITAN-7240,Gather requirements,In Progress
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-7239,FEPU Thermal Throttling ,Pending,TITAN-7241,Design Document,In Progress
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-7239,FEPU Thermal Throttling ,Pending,TITAN-7242,Coding,Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-7239,FEPU Thermal Throttling ,Pending,TITAN-7243,Unit testing,Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-7239,FEPU Thermal Throttling ,Pending,TITAN-7244,Integration with BEPU code,Open
+TITAN-308,Throughput throttling (Power and Thermal limiting),Open,TITAN-7239,FEPU Thermal Throttling ,Pending,TITAN-7245,Release,Open
+TITAN-307,Zero Overprovisioning,Open,TITAN-4624,0% overprovisioning (ZOP),Open,TITAN-5621,Recycler ZOP Support,Open
+TITAN-306,Security Erase,Open,TITAN-5739,Add the ability to erase blocks containing valid non-user LBA and invalid user data in security erase,Open,TITAN-6308,code and unit test,Open
+TITAN-306,Security Erase,Open,TITAN-628,Security Erase (crypto erase only),Design,TITAN-1474,Complete Security Erase handler,In Progress
+TITAN-306,Security Erase,Open,TITAN-628,Security Erase (crypto erase only),Design,TITAN-1475,Develop Military Security Erase,Closed
+TITAN-306,Security Erase,Open,TITAN-628,Security Erase (crypto erase only),Design,TITAN-3072,System Call support: Trim support,Resolved
+TITAN-306,Security Erase,Open,TITAN-628,Security Erase (crypto erase only),Design,TITAN-5174,Report core XTS engine exceptions with more description,In Progress
+TITAN-306,Security Erase,Open,TITAN-6732,ATA Extended Security Feature and full Security Erase support,Code,TITAN-1476,Develop Extended Security sub-feature -  vendor specific data pattern requirement,Open
+TITAN-306,Security Erase,Open,TITAN-6732,ATA Extended Security Feature and full Security Erase support,Code,TITAN-6733,Implement full Security Erase support,Open
+TITAN-305,Root File System Reliabilty,Open,TITAN-503,Root File System implement in Sprint 1,Resolved,TITAN-865,Code clean up for production quality,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-503,Root File System implement in Sprint 1,Resolved,TITAN-866,RFS usage mode improvement: use FWIR to manage RFS request coding,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-503,Root File System implement in Sprint 1,Resolved,TITAN-867,RFS usage mode improvement: use FWIR to manage RFS request testing,Closed
+TITAN-305,Root File System Reliabilty,Open,TITAN-503,Root File System implement in Sprint 1,Resolved,TITAN-868,RFS recycle testing,Closed
+TITAN-305,Root File System Reliabilty,Open,TITAN-503,Root File System implement in Sprint 1,Resolved,TITAN-870,Error handling in BEPU RFS detailed design documentation and review,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-869,Record program/erase count in RFS coding and test,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-1486,Flash Config Compatibility-Adjust NVM-Block Pool coding,Closed
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-1487,Flash Config Compatibility-Adjust NVM-Block Pool  testing,Closed
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-1488,PFail Detection and recovery in BEPU RFS of design/documentation/review,Closed
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-1497,Flash Config Compatibility-Adjust NVM-Block Pool :Rampup and Low level Design,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-2604,RPC requirement for SQA: update CRR/PRR page content,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-631,RFS - Misc Tasks,Resolved,TITAN-3284,Combine isPrrusingFletcher in gRfsRomVars and gRfsVars together,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-486,RFS - Scrubbing Policy design and implementation,Code,TITAN-768,RFS Read Scrub: Policy Preview,Closed
+TITAN-305,Root File System Reliabilty,Open,TITAN-486,RFS - Scrubbing Policy design and implementation,Code,TITAN-1142,RFS Read Scrub: Design and according review,Resolved
+TITAN-305,Root File System Reliabilty,Open,TITAN-486,RFS - Scrubbing Policy design and implementation,Code,TITAN-1143,RFS Read Scrub : Coding of RFS internal part,In Progress
+TITAN-305,Root File System Reliabilty,Open,TITAN-486,RFS - Scrubbing Policy design and implementation,Code,TITAN-1144,RFS Read Scrub : Unit test,Open
+TITAN-305,Root File System Reliabilty,Open,TITAN-486,RFS - Scrubbing Policy design and implementation,Code,TITAN-5699,RFS Read Scrub: store store time between scrubs,Open
+TITAN-305,Root File System Reliabilty,Open,TITAN-486,RFS - Scrubbing Policy design and implementation,Code,TITAN-6278,RFS Read Scrub : Integration test,Open
+TITAN-304,Panic Log Details,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1366,Update design document,Closed
+TITAN-304,Panic Log Details,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1368,Design Diagnostic Extraction,Closed
+TITAN-304,Panic Log Details,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1373,Connect Panic dump to ASSERT,Closed
+TITAN-304,Panic Log Details,Open,TITAN-609,Diagnostics API: Panic Log implementation,Closed,TITAN-1374,Implement Panic Dump Diagnostic API,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,GRFN-7007,MST Sync up,Resolved,GRFN-7369,Design document for MST power-loss recovery,Resolved
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,GRFN-7007,MST Sync up,Resolved,GRFN-7370,Coding MST recovery and misc features,Resolved
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,GRFN-7007,MST Sync up,Resolved,GRFN-7373,Debugging MST recovery feature,Resolved
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-1963,MST: Single Plane Test Code Rate Adjustment,Resolved,TITAN-1964,Design Document of MST Single Plane Test,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-1963,MST: Single Plane Test Code Rate Adjustment,Resolved,TITAN-1965,Coding for MST Single Plane Test,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-1963,MST: Single Plane Test Code Rate Adjustment,Resolved,TITAN-1966,Debugging and Test for MST Single Plane test,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-1963,MST: Single Plane Test Code Rate Adjustment,Resolved,TITAN-1967,Design Document for MST Code Rate Adjustment,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-1963,MST: Single Plane Test Code Rate Adjustment,Resolved,TITAN-1968,Coding and Integration for MST Code Rate Adjustment,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-1963,MST: Single Plane Test Code Rate Adjustment,Resolved,TITAN-1969,Debugging and Test for MST Code Rate Test,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-585,MST with MPTool,Closed,TITAN-1297,Process SCT MST commands (BEPU side only),Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-585,MST with MPTool,Closed,TITAN-1298,Report correct result (including time temperature),Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-585,MST with MPTool,Closed,TITAN-1299,MST performance tracking and improvement,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-4245,BE MST: Debug and Test with new data path,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-4246,BE MST: save PEC after MST done,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-4247,SBMU MST: save ELOG,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-4248,BE MST: test by using MP Tool,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-4249,FE&BE MST: PHY control ,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-6141,SBMU two stages format support,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-7233,MST panic mode,Closed
+TITAN-291,Diagnostics API: Manufacturing Flash Test,Resolved,TITAN-4244,MST minor features,Assessment,TITAN-7235,Debug with TOSHIBA 4-Plane flash dimm,Closed
+TITAN-289,Data Path:  Compression,Open,TITAN-477,Support compression configuration,Open,TITAN-746,Compression control implementation,Open
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-778,Study current DCF implementation,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-779,Map DCF items from PRD & Schema,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-780,Validate DCF mapping information,Closed
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-781,Identify DCF items for alpha2,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-782,End to end validation for alpha2 items,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-783,Open Items,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-784,Create Composite XML file,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-785,Promote Int_DCF stream to AD,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-786,Understand tools team requirements,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-787,Design -  tools team requirements,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-788,Implement & unit test -  tools team requirements,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-789,Int test & promote -  tools team requirements,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1655,schema xml extension for config manager,Resolved
+TITAN-289,Data Path:  Compression,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1958,Update description for every DCF element,Resolved
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-610,Segmented firmware ball verification RPC service,Closed
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-921,Firmware upgrade - design and documentation,Resolved
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-922,Firmware upgrade - Implementation,Closed
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-923,Firmware upgrade - testing,Closed
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-2107,RFS support for FW upgrade: RPC interface to change metadata value,Resolved
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-2174,RFS support for FW upgrade: overlay file source,Resolved
+TITAN-286,Firmware Download Security,Open,TITAN-520,Firmware Upgrade,Open,TITAN-4938,Firmware upgrade - code review,Open
+TITAN-284,ATA Feature Set: Security,Open,TITAN-6102,Power mode support for ATA Security,Open,TITAN-1220,Griffin ATA Security: Save / Restore XTS Global Key and Lock Bits for Dev Sleep (prototype),In Progress
+TITAN-284,ATA Feature Set: Security,Open,TITAN-6102,Power mode support for ATA Security,Open,TITAN-1221,Griffin ATA Security: Save / Restore XTS Global Key and Lock Bits across FW download (prototype),Open
+TITAN-284,ATA Feature Set: Security,Open,TITAN-6102,Power mode support for ATA Security,Open,TITAN-3100,Load single range/lock into range decoder from power up processing - overall chunker integration at power on,In Progress
+TITAN-284,ATA Feature Set: Security,Open,TITAN-6102,Power mode support for ATA Security,Open,TITAN-3175,DevSleep (and power mode) support to reload security hardware,In Progress
+TITAN-284,ATA Feature Set: Security,Open,TITAN-6102,Power mode support for ATA Security,Open,TITAN-5343,Sync up TCG / ATA initialization with new Titan Power On Sequence,Open
+TITAN-284,ATA Feature Set: Security,Open,TITAN-6102,Power mode support for ATA Security,Open,TITAN-7468,Use the FE IPWR scratch register space to retain the ephemeral key across PS1,In Progress
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1218,Griffin ATA Security: Save / Restore XTS Global Key and Lock Bits to HW (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1219,Griffin ATA Security: Save / Restore XTS Global Key and Lock Bits for COMRESET (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1222,Griffin ATA Security: Security State Transitions Test (unit test),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1473,Verify Security Feature set (without Security Erase) through real power cycle / Hw/Sw reset,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1556,Griffin ATA Security Sprint 2 (design),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1557,Griffin ATA Security Sprint 4: MFB Initialization (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1558,Griffin ATA Security Sprint 4: Power Up (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1559,Griffin ATA Security Sprint 4: Ata Security Feature Set (Set Password Unlock Disable Freeze Lock and Security Erase Unit,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1560,Griffin ATA Security Sprint 4: Unlock support (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1561,Griffin ATA Security Sprint 4: Disable Password support (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1562,Griffin ATA Security Sprint 4: Freeze Lock (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1563,Griffin ATA Security Sprint 4: Security Erase Unit (prototype),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1564,Griffin ATA Security regression (unit test),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-1802,CLONE - Griffin ATA Security Sprint 4: Ata Security Feature Set (Set Password Unlock Disable Freeze Lock and Security Erase Unit,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-2788,Test ATA Security key hierarchy on FPGA or SSD hardware (unit test),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3238,Griffin ATA Security Use Common Security APIs,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3293,Add query function to query Security Enabled State for TCG,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3326,Add function to return DK,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-3997,Expand size of MEK to include root-key-derivative wrapping.,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-4377,Integration test of ATA security with full hardware support (keys and ranges),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-4808,Fix Ata Security build errors,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-5367,Fix Ata Security bugs found during hardware testing,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-646,ATA Security Feature Set and Key Hierarchy support,Resolved,TITAN-5722,Restructure code for supportability and consolidation of key functions.,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-2981,Load mulitple ranges/locks from STD,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-2994,Pass key from ATA Security to TCG security,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3030,TCG Error Processing for I/O Commands: Detection of Locking Conditions and Reporting,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3051,Stubbed function cleanup and addition of sys calls related to Griffin,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3064,Range Setting Using Real Hardware Interface,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3092,Set default keys range lock states at power up (non-user area),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3104,Provide XTS index to chunker for write/read,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3113,DRBG porting to new hardware interface,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3117,System Call support: Other System Calls,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3160,Identify data modification based upon TCG/ATA and active versus inactive,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3161,System call support: Crypto mode,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3162,Create and use ephemeral key,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3163,Save and restore ephemeral key from MCU,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3172,Power on sequencing of TCG and ATA security and command lock-out.,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3174,Report errors on range crossing (temporary support until range crossing supported),Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3268,Create Security Common Simulation and Integrate ATA Security into TCG build,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-3955,Passing of XTS index to Core XTS by mpu,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-4068,Up the PBKDF2 count to the recommended 1000 minimum,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-4233,Verify Xts256_AesCbc function for use in diagnostic unlock,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-4620,Integrate Crypto & CM changes into Griffin_AD,Closed
+TITAN-284,ATA Feature Set: Security,Open,TITAN-3207,Common Security Infrastructure and Crypto Services for ATA Security and TCG,Resolved,TITAN-5380,CLONE - Integrate Crypto & CM changes into Griffin_AD,Closed
+TITAN-283,NAND Error Policy,Open,TITAN-616,Flash Error Policy parameters Implementation,Open,TITAN-1392,Flash policy parameters development,Closed
+TITAN-283,NAND Error Policy,Open,TITAN-616,Flash Error Policy parameters Implementation,Open,TITAN-1393,Flash policy parameters verify on both Micron and Toshiba NAND,Open
+TITAN-283,NAND Error Policy,Open,TITAN-616,Flash Error Policy parameters Implementation,Open,TITAN-1394,Flash Policy Parameter LLR LUT reorder & cache table initialization,Resolved
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-1594,Program fail error handler	remap log p-fail recovery coding,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-1595,Program fail error handler	remap log read coding,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-1596,Remap log p-fail recovery and remap log read test and debug,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-1597,Program fail error handler code review,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-2650,Program fail error handler- unit test,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-3256,Program fail error handler frame code design phase 2,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-3257,Program fail error handler	remap log write coding phase2,Open
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-5533,RFBT (with temporary bad block table) coding,Closed
+TITAN-283,NAND Error Policy,Open,TITAN-651,Flash Error - Program Fail Implementation Phase II log usage,Open,TITAN-5534,RFBT (with temporary bad block table) debug,Closed
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-3334,GCU handle 3 plane case design,Resolved
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-3335,GCU handle 3 plane wirte,Resolved
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-3336,GCU handle 3 plane wirte debug,Resolved
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-5633,Need Config for MEM-117,Closed
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-5757,bring up MEM-117 (8K FPAGE SIZE),Closed
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-5787,review GCU code space and perofrmance (Phase 2),Resolved
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-5789,[Add Build Configuration] bring up MEM-117 8K Flash Page Size,Closed
+TITAN-279,NAND Support:  Toshiba MLC A19nm 4p 16k,Open,TITAN-3310,BE - Quad Plane Flash Support,Open,TITAN-6753,bring up MEM-117 (16K FPAGE SIZE),Resolved
+TITAN-272,SandForce Diagnostics API:  Move Grown List to Factory List,Open,TITAN-2937,Move Grown Defect Log to Manufacture Bad Block,Open,TITAN-1138,API: move Grown Defect Log to Manufacture Bad Block Table development,Open
+TITAN-272,SandForce Diagnostics API:  Move Grown List to Factory List,Open,TITAN-2937,Move Grown Defect Log to Manufacture Bad Block,Open,TITAN-1139,API: move Grown Defect Log to Manufacture Bad Block Table test and review,Open
+TITAN-272,SandForce Diagnostics API:  Move Grown List to Factory List,Open,TITAN-555,Flash Error Grown Defect Log Implementation,Resolved,TITAN-1134,Requirements document and review with Marketing/Apps - get signoff,Closed
+TITAN-272,SandForce Diagnostics API:  Move Grown List to Factory List,Open,TITAN-555,Flash Error Grown Defect Log Implementation,Resolved,TITAN-1135,Documentation and Review,Closed
+TITAN-272,SandForce Diagnostics API:  Move Grown List to Factory List,Open,TITAN-555,Flash Error Grown Defect Log Implementation,Resolved,TITAN-1136,Coding and Review,Closed
+TITAN-272,SandForce Diagnostics API:  Move Grown List to Factory List,Open,TITAN-555,Flash Error Grown Defect Log Implementation,Resolved,TITAN-1137,Debug and test,Closed
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-798,Requirement collect/evaluate on diagnostic sub-command,Resolved
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-799,Diagnostic sub-command implement phase 1,Resolved
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-800,Diagnostic sub-command implement  - Fetch HW-generated Random Data,Resolved
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-801,Diagnostic sub-command implement - Firmware Meta Data,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-802,Develop diag subcommand Clear Smart ,Closed
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-804,Track Diagnostic Specification Document Development,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-805,Subtask - Internal Grown Defect List Log 0xA8,In Progress
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-2170,Implements SCT ReadDefectList Opcode C603h - Coding,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-2936,Implements SCT ReadDefectList for OEM - Coding,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3306,Implements SCT ReadDefectList for OEM - Debug & Test,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3307,Implements SCT ReadDefectList Opcode C603h - Debug & Test,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3337,Diagnostic sub-command implement  - Log Event,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3338,Diagnostic sub-command implement  - Power Fail Lock Management,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3339,Diagnostic sub-command implement  - Convert Physical Address,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3340,Diagnostic sub-command implement - Transparent Flash Access,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3341,Diagnostic sub-command implement - Read/Write I2C Register,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3342,Diagnostic sub-command implement - Smart Diagnostics,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3343,Diagnostic sub-command implement - Snapshot,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3344,Diagnostic sub-command implement - NAND Error Injection,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-3345,Diagnostic sub-command implement - Read Only Mode,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-5674,Diag: Read Only Mode,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-491,Develop Diagnostic sub-command handlers,Open,TITAN-6926,RPC service for read Grown Defect log,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-612,Core Diagnostic RPC Implementations (Map Lookup full drive recovery and admin statistics),Open,TITAN-1383,Diagnostic Framework RPCs for executing map lookups,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-612,Core Diagnostic RPC Implementations (Map Lookup full drive recovery and admin statistics),Open,TITAN-1384,Diagnostic Framework RPCs for transmitting data to SMART/Admin stack,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-612,Core Diagnostic RPC Implementations (Map Lookup full drive recovery and admin statistics),Open,TITAN-1385,Diagnostic Framework RPCs for full drive recovery,Open
+TITAN-271,SandForce Diagnostics API,Open,TITAN-497,Diagnostics API: Diagnostic Unlock,Closed,TITAN-851,Diag_Unlock design,Closed
+TITAN-271,SandForce Diagnostics API,Open,TITAN-497,Diagnostics API: Diagnostic Unlock,Closed,TITAN-852,Implemention of diagnostic lock/unlock support.,Resolved
+TITAN-271,SandForce Diagnostics API,Open,TITAN-497,Diagnostics API: Diagnostic Unlock,Closed,TITAN-853,Testing of diagnostic lock/unlock functions,Closed
+TITAN-271,SandForce Diagnostics API,Open,TITAN-629,New entries in Firmware config appendix for diagnostic unlock use,Closed,TITAN-2258,New entries in Firmware config appendix for diagnostic unlock use,Resolved
+TITAN-268,Debug Interface:  Configuration,Open,TITAN-508,Debug Interface: Configuration,Open,TITAN-900,Enable JTAG by default on special compile.,Open
+TITAN-268,Debug Interface:  Configuration,Open,TITAN-508,Debug Interface: Configuration,Open,TITAN-901,Enable JTAG via CRR or Diag Unlock,Open
+TITAN-268,Debug Interface:  Configuration,Open,TITAN-508,Debug Interface: Configuration,Open,TITAN-902,(optional) Implement Ethernet,Closed
+TITAN-268,Debug Interface:  Configuration,Open,TITAN-508,Debug Interface: Configuration,Open,TITAN-903,Implement UART,Open
+TITAN-268,Debug Interface:  Configuration,Open,TITAN-508,Debug Interface: Configuration,Open,TITAN-904,Review Design,Open
+TITAN-268,Debug Interface:  Configuration,Open,TITAN-508,Debug Interface: Configuration,Open,TITAN-905,Update Design,Open
+TITAN-265,ATA Feature Set: NCQ,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6809,ATA Protocol NCQ Send/Receive Handling ,Closed
+TITAN-265,ATA Feature Set: NCQ,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6810,ATA Protocol Trim Processing (Fast Path),Resolved
+TITAN-265,ATA Feature Set: NCQ,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6811,ATA Protocol MULTIPLE handling (coding & review),Closed
+TITAN-265,ATA Feature Set: NCQ,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-9450,Return D2H fis with error bit set on Data Set Management command until Trim is supported.,Closed
+TITAN-259,ATA Feature Set: Software Settings Preservation,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6809,ATA Protocol NCQ Send/Receive Handling ,Closed
+TITAN-259,ATA Feature Set: Software Settings Preservation,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6810,ATA Protocol Trim Processing (Fast Path),Resolved
+TITAN-259,ATA Feature Set: Software Settings Preservation,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6811,ATA Protocol MULTIPLE handling (coding & review),Closed
+TITAN-259,ATA Feature Set: Software Settings Preservation,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-9450,Return D2H fis with error bit set on Data Set Management command until Trim is supported.,Closed
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-830,Cached NAND Read/Program (Document requirements get sign-off from Architecture),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-831,Cached NAND Read/Program (Design of framework documentation),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-832,Micron - Cached NAND Read (Implement Framework),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-833,Micron - Cached NAND Read (Test Framework on simulator),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-834,Micron - Cached NAND Read (Code Review Framework),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-835,Intel - Cached NAND Read/Program (Implement specific for Intel),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-836,Toshiba/SanDisk - Cached NAND Read/Program (Implement specific for Toshiba/SanDisk),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-837,Hynix - Cached NAND Read/Program (Implement specific for Hynix),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-838,Non-Micron - Cached NAND Program,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-839,Micron - Cached Read - Performance tuning,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-840,Micron - Cached NAND Program (Implement Framework),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-841,Micron - Cached NAND Program (Test Framework),Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-842,Micron - Cached NAND Read/Program Design Rework,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-843,Micron - Cached NAND Read/Program Design Doc update,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-844,Micron - Cached Program -Code Review & rework,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2110,Micron - Cache Read testing on ASIC,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2800,Micron - cache Read - Perf Stream Integration & Review,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2801,Micron - cache program - coding,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-2802,Micron - Cached Program - Performance tuning,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-3259,IOMeter cache read performance measurement,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-3867,GCU needs to do single-plane read if only necessary data is read out,Closed
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5379,Program cache Autopromote Pre test and Verification of Program cache for Sandisk/Toshiba,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5564,Program cache command support Code review and rework,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-5878,Promote read cache code to AD,Resolved
+TITAN-254,NAND Cached READ support,Resolved,TITAN-495,GCU Flash performance enhancement,Resolved,TITAN-6182,Promote read cache support code to AD,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-778,Study current DCF implementation,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-779,Map DCF items from PRD & Schema,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-780,Validate DCF mapping information,Closed
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-781,Identify DCF items for alpha2,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-782,End to end validation for alpha2 items,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-783,Open Items,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-784,Create Composite XML file,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-785,Promote Int_DCF stream to AD,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-786,Understand tools team requirements,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-787,Design -  tools team requirements,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-788,Implement & unit test -  tools team requirements,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-789,Int test & promote -  tools team requirements,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1655,schema xml extension for config manager,Resolved
+TITAN-251,Data Path:  SysClk Frequency,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1958,Update description for every DCF element,Resolved
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-492,DCF core elements (Life Curve Protection and RDD Error Rate Threshold),Open,TITAN-806,DCF element : life curve protection related elements (Design),Open
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-492,DCF core elements (Life Curve Protection and RDD Error Rate Threshold),Open,TITAN-807,DCF element: RDD Error Rate Threshold (Design),Resolved
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-492,DCF core elements (Life Curve Protection and RDD Error Rate Threshold),Open,TITAN-2893,DCF element : life curve protection related elements (Code),Open
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-492,DCF core elements (Life Curve Protection and RDD Error Rate Threshold),Open,TITAN-2894,DCF element : life curve protection related elements (Test & Integration),Open
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-492,DCF core elements (Life Curve Protection and RDD Error Rate Threshold),Open,TITAN-2895,DCF element: RDD Error Rate Threshold (Code),Open
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-492,DCF core elements (Life Curve Protection and RDD Error Rate Threshold),Open,TITAN-2896,DCF element: RDD Error Rate Threshold (Test and Integration),Open
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-605,Read disturb limit check verification,Open,TITAN-1360,Verify RDC limit check,Resolved
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-3981,Read Disturb Handling for Partially Progammed Blocks,Design,TITAN-3982,Design a solution to handle RDD for partially programmed block.  Must handle both RDC threshold triggered RDD and error triggered RDD,In Progress
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-3981,Read Disturb Handling for Partially Progammed Blocks,Design,TITAN-3983,Implement RDD handling for paritally written block,Open
+TITAN-244,Read Disturb Configuration Options,Open,TITAN-3981,Read Disturb Handling for Partially Progammed Blocks,Design,TITAN-3984,Testing RDD for partially written rblocks,Open
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1444,Chunker support for Trim command,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1546,implement background task,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1547,TRIM (design document & review) 2 Scott Dominguez,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1548,TRIM - Front End IO Handling (phase 1),Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1549,TRIM - MPU tasks,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1550,TRIM - Front End IO Handling (phase 2),Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1551,TRIM - MPU Recovery tasks,Open
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1552,TRIM - Front End IO Handling (phase 3),Open
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1553,get SATA I/O to test the Trim feature,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1554,TRIM - setup GDB debugger & simulation tools,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-1555,TRIM - debugger & simulator support,Resolved
+TITAN-242,TRIM Support,Open,TITAN-645,Core TRIM aligned support and infrastructure,Open,TITAN-2168,Check-in code for TRIM,Resolved
+TITAN-242,TRIM Support,Open,TITAN-2332,TRIM- Unaligned support,Open,TITAN-2333,Design - Unaligned trim support,In Progress
+TITAN-242,TRIM Support,Open,TITAN-2332,TRIM- Unaligned support,Open,TITAN-2334,Implement  - Unaligned trim support to send request to core,Open
+TITAN-242,TRIM Support,Open,TITAN-2332,TRIM- Unaligned support,Open,TITAN-2335,Unit Test  - Unaligned trim support,Open
+TITAN-242,TRIM Support,Open,TITAN-2332,TRIM- Unaligned support,Open,TITAN-2336,Integration  - Unaligned trim support,Open
+TITAN-242,TRIM Support,Open,TITAN-2332,TRIM- Unaligned support,Open,TITAN-2848,Implement  - Unaligned trim support (Handle Core response),Open
+TITAN-242,TRIM Support,Open,TITAN-5890,Set Features command for NCQ Trim,Open,TITAN-1776,Support SET FEATURES command for NCQ trim,Open
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1198,SLC mode operation Design and Review,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1199,Toshiba SLC mode operation support,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1200,Hynix SLC mode operation support,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1201, Intel/Micron flash SLC mode operation,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1202,interface for SLC access,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1203,SLC vs. MLC accounting system,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1204,SLC mode Documentation and review,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-1205,SLC command sequence design,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-3333,SLC mode support in Cache Read operation,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-565,GCU Flash SLC Mode operation support,Resolved,TITAN-3364,Read Retry support in Cache Read,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3693,Rebuild CRR data structures: format and normal boot coding,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3694,Rebuild CRR data structures: format and normal boot unit test,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3695,SLC mode support in RFS coding,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3696,SLC mode support in RFS testing,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3697,Enhanced CRR&PRR data protection coding,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3698,Rebuild PRR data structures: format and normal boot coding,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3699,Rebuild PRR data structures: format and normal boot unit testing,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3700,EH in ROM: all copies error case handling coding,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3701,EH in ROM: all copies error case handling testing,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3702,EH in ROM: partial copies error case handling coding,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3703,EH in ROM: partial copies error case handling testing,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3704,Fast boot of RFS support testing	,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3705,Distinguish ROM A01/B01 to decide format action,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3706,Different ROM version compatibility verification,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3707,Enhance debug way for DV simulation test,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3708,Read fw from different files to speed up,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3709,Boot up performance tuning,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3710,Rebuild PRR data structures: format and normal boot integration testing,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3711,Rebuild CRR data structures: format and normal boot integration test,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3712,SLC mode support in RFS integration testing,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3713,Enhanced CRR&PRR data protection unit test,Closed
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3714,Enhanced CRR&PRR data protection integration test,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3715,design understanding and integration  of Error handling in new ROM: all copies corruption,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3716,Rebuild CRR data structures: format and normal boot coding : Design  Understanding and Integration Test design document,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3717,Rebuild PRR data structures: format and normal boot coding : Design  Understanding and Integration Test design document,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3718, Error handling in new ROM: partial copies corruption :design understanding and integration test design document,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3719,Fast boot of RFS support : Design  Understanding and Integration Test design document,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3720,Enhanced CRR&PRR data protection : Design  Understanding and Integration Test design document,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3721,SLC Mode: Design  Understanding and Integration Test design document,Resolved
+TITAN-241,System Data Storage:  SLC Mode,Resolved,TITAN-3492,Root File System implement in ROM B01,Resolved,TITAN-3722,flexible BEPU SALT KEY iteration number and LLR value to read CRR ,Closed
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-610,Segmented firmware ball verification RPC service,Closed
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-921,Firmware upgrade - design and documentation,Resolved
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-922,Firmware upgrade - Implementation,Closed
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-923,Firmware upgrade - testing,Closed
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-2107,RFS support for FW upgrade: RPC interface to change metadata value,Resolved
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-2174,RFS support for FW upgrade: overlay file source,Resolved
+TITAN-239,Firmware releases must be forward- and backward-compatible,Open,TITAN-520,Firmware Upgrade,Open,TITAN-4938,Firmware upgrade - code review,Open
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2316,Design diagnostic code for EEPROM programming,Resolved
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2317,Implement  EEPROM programming backend ,Resolved
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2318,Implement  Diagnostic EEPROM programming command handling code,Resolved
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2319,Unit test  Diagnostic EEPROM programming code,Resolved
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-2320,Integration  Diagnostic EEPROM programming code,Resolved
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-5884,Add a unit test to exercise new Titan Unit Test Framework,Resolved
+TITAN-237,Method to program EEPROM,Open,TITAN-2270,Create mechanism in Flashware to program EEPROM,Resolved,TITAN-5962,CLONE - Unit test  Diagnostic EEPROM programming code,Resolved
+TITAN-234,Behavior After Panic (Simple),Open,TITAN-641,Panic when get unexpected errors,Open,TITAN-1539,Cause panic dump for all CPU when receiving unexpected errors,Open
+TITAN-234,Behavior After Panic (Simple),Open,TITAN-641,Panic when get unexpected errors,Open,TITAN-2717,Unit test - panic dump for all CPU when receiving unexpected errors,Open
+TITAN-234,Behavior After Panic (Simple),Open,TITAN-641,Panic when get unexpected errors,Open,TITAN-2718,Integration test - panic dump for all CPU when receiving unexpected errors,Open
+TITAN-233,ATA Command: IDENTIFY DEVICE,Closed,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6809,ATA Protocol NCQ Send/Receive Handling ,Closed
+TITAN-233,ATA Command: IDENTIFY DEVICE,Closed,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6810,ATA Protocol Trim Processing (Fast Path),Resolved
+TITAN-233,ATA Command: IDENTIFY DEVICE,Closed,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6811,ATA Protocol MULTIPLE handling (coding & review),Closed
+TITAN-233,ATA Command: IDENTIFY DEVICE,Closed,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-9450,Return D2H fis with error bit set on Data Set Management command until Trim is supported.,Closed
+TITAN-229,ATA Feature Set:  General Purpose Logging,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6809,ATA Protocol NCQ Send/Receive Handling ,Closed
+TITAN-229,ATA Feature Set:  General Purpose Logging,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6810,ATA Protocol Trim Processing (Fast Path),Resolved
+TITAN-229,ATA Feature Set:  General Purpose Logging,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6811,ATA Protocol MULTIPLE handling (coding & review),Closed
+TITAN-229,ATA Feature Set:  General Purpose Logging,Resolved,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-9450,Return D2H fis with error bit set on Data Set Management command until Trim is supported.,Closed
+TITAN-223,Temperature Sensor (internal),Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1010,Develop Write Same command handler,Resolved
+TITAN-223,Temperature Sensor (internal),Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1011,Develop SCT data table ,Resolved
+TITAN-223,Temperature Sensor (internal),Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1012,Design Fast Path Support For SCT Write Same,Open
+TITAN-223,Temperature Sensor (internal),Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1013,Implement Fast Path Support For SCT Write Same,Open
+TITAN-223,Temperature Sensor (internal),Open,TITAN-537,Develop SCT sub-command handlers,Open,TITAN-1014,Implement temperature history log,Resolved
+TITAN-223,Temperature Sensor (internal),Open,TITAN-2635,Internal Device Statistics Log 0x04,Open,TITAN-2636,Internal Device Stat Implementation,Closed
+TITAN-223,Temperature Sensor (internal),Open,TITAN-2635,Internal Device Statistics Log 0x04,Open,TITAN-2637,Support SMART Attribute/Thresholds (F0h/F1h),Open
+TITAN-223,Temperature Sensor (internal),Open,TITAN-3327,RPC for temperature readout of temperature sensors,Open,TITAN-3328,API design for reading temperature sensors,Open
+TITAN-223,Temperature Sensor (internal),Open,TITAN-3327,RPC for temperature readout of temperature sensors,Open,TITAN-3329,Implement reading temperature sensors,Open
+TITAN-223,Temperature Sensor (internal),Open,TITAN-3327,RPC for temperature readout of temperature sensors,Open,TITAN-3330,unit test reading temperature sensors,Open
+TITAN-223,Temperature Sensor (internal),Open,TITAN-3327,RPC for temperature readout of temperature sensors,Open,TITAN-3331,Integration testing reading temperature sensors,Open
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-610,Segmented firmware ball verification RPC service,Closed
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-921,Firmware upgrade - design and documentation,Resolved
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-922,Firmware upgrade - Implementation,Closed
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-923,Firmware upgrade - testing,Closed
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-2107,RFS support for FW upgrade: RPC interface to change metadata value,Resolved
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-2174,RFS support for FW upgrade: overlay file source,Resolved
+TITAN-222,ATA Command: DOWNLOAD MICROCODE,Open,TITAN-520,Firmware Upgrade,Open,TITAN-4938,Firmware upgrade - code review,Open
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-778,Study current DCF implementation,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-779,Map DCF items from PRD & Schema,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-780,Validate DCF mapping information,Closed
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-781,Identify DCF items for alpha2,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-782,End to end validation for alpha2 items,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-783,Open Items,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-784,Create Composite XML file,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-785,Promote Int_DCF stream to AD,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-786,Understand tools team requirements,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-787,Design -  tools team requirements,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-788,Implement & unit test -  tools team requirements,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-789,Int test & promote -  tools team requirements,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1655,schema xml extension for config manager,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1958,Update description for every DCF element,Resolved
+TITAN-221,Data Path:  LDPC Configuration,Resolved,TITAN-899,DCF: Support LDPC configuration,Resolved,TITAN-5515,DCF: configure active LDPC engine,Resolved
+TITAN-219,ATA Command: Flush Cache,Open,TITAN-643,ATA Flush Cache Command,Open,TITAN-1544,Integrate interface to completed ATA flush cache command,Resolved
+TITAN-219,ATA Command: Flush Cache,Open,TITAN-643,ATA Flush Cache Command,Open,TITAN-2979,testing flush cache ata command,Resolved
+TITAN-212,LED Behavior,Open,TITAN-1745,Implement LED Operation for Flashware,Open,TITAN-1746,Design for LED behavior,Open
+TITAN-212,LED Behavior,Open,TITAN-1745,Implement LED Operation for Flashware,Open,TITAN-1747,Prototype LED behavior,Open
+TITAN-212,LED Behavior,Open,TITAN-1745,Implement LED Operation for Flashware,Open,TITAN-1748,Unit test for LED behavior,Open
+TITAN-212,LED Behavior,Open,TITAN-1745,Implement LED Operation for Flashware,Open,TITAN-1749,Integration Test for LED behavior,Open
+TITAN-202,Support the NAND topology representation,Closed,TITAN-3489,DriveCfg Topology Format xlation,Closed,TITAN-3685,Design,Closed
+TITAN-202,Support the NAND topology representation,Closed,TITAN-3489,DriveCfg Topology Format xlation,Closed,TITAN-3686,Prototype,Closed
+TITAN-202,Support the NAND topology representation,Closed,TITAN-3489,DriveCfg Topology Format xlation,Closed,TITAN-3687,Unit Test,Closed
+TITAN-202,Support the NAND topology representation,Closed,TITAN-3489,DriveCfg Topology Format xlation,Closed,TITAN-3688,Integration Test,Closed
+TITAN-201,ATA Feature Set: Power Management,Open,GRFN-7078,Develop ATA power management module,Resolved,GRFN-7079,Integrate PM command handlers with APIs provided by Power Management module on L2,Resolved
+TITAN-201,ATA Feature Set: Power Management,Open,GRFN-7078,Develop ATA power management module,Resolved,GRFN-7080,Develop the routine to set up STBY timer,Resolved
+TITAN-201,ATA Feature Set: Power Management,Open,GRFN-7078,Develop ATA power management module,Resolved,GRFN-7082,Develop SBTY timer expire service routine,Resolved
+TITAN-194,ATA Feature Set:  Set Features,Resolved,TITAN-2898,Support ATA set features,Closed,TITAN-2899,Need to check PRD for new defaults,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-885,DCF element: Number of Active Die,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-886,DCF element: Behaviour after panic,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-887,DCF element: Debug port control,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-888,DCF element : Flash Configuration Block related elements,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-890,DCF element: Drive behavior after unsuccessful full p-Fail,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-891,DCF element: Pfail Configuration Type,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-892,DCF element: Pfail watchdog Timer,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-893,DCF element: SLC Mode Read Scrub Threshold,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-894,DCF elements: Dynamic Read Scrub related elements,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-895,DCF element: Flash Policy Support - Adaptive Read Voltage Support,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-896,DCF element: SLC/MLC Band Minimum Code Index,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-897,DCF element: Disparity Difference for LWP,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-507,DCF BE Elements,Open,TITAN-898,DCF element: Disparity for read operation background task,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1706,Abort SECURITY set Master Password command when Master Password Identifier is 0x0000 or 0xFFFF,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1707,Clone PPRO-10612 Add config info in DCF for DLMC support(Word 83 bit 0),Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1709,Add config info for these features' support: Write/Read Buffer Write-Read-Verify,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1710,Change Identify For Lenovo,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1711,Make NCQ support&depth configurable for HP,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1712,LION needs "Read look-ahead is enabled"(Word 85 bit 6) to be configurable,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1713,Idle Immediate With Unload supported/unsupported in DCF for LION,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1714,Add new CDU for HPA sub feature control,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1715,Divide the option of sanitize command config into three.(Toshiba),Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1705,Migrating portion of PPRO CDU to DCF,Open,TITAN-1716,PPRO Defect: SSD with DEVSLP hardware needs improvement of download firmware methodology.,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1656,SCT command to update WWN serial number or any other setting in IDENT or DCF area ,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1658,MFB needed with new sections including DCF-Z and DCF M also definition for DCF-P header,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1957,Creation of DCF-Z using defaults from xml,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1959,Generate documentation from DCF description,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1960,Enhance FEPU to handle DCF-Z as overlay,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-1962,Implement NVMe command to read and write DCF records ,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-2772,DCF Generation & Handling Infrastructure,Open,TITAN-3388,Update PRDtoXML spreadsheet with latest status,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-778,Study current DCF implementation,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-779,Map DCF items from PRD & Schema,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-780,Validate DCF mapping information,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-781,Identify DCF items for alpha2,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-782,End to end validation for alpha2 items,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-783,Open Items,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-784,Create Composite XML file,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-785,Promote Int_DCF stream to AD,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-786,Understand tools team requirements,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-787,Design -  tools team requirements,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-788,Implement & unit test -  tools team requirements,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-789,Int test & promote -  tools team requirements,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1655,schema xml extension for config manager,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-488,DCF Schema Infrastructure,Resolved,TITAN-1958,Update description for every DCF element,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3242,Enhance SataSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3243,Enhance PcieSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3245,Enhance AhciSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3246,Enhance AtaSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3247,Enhance NvmeSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3248,Enhance FrontendSchema.xml file to meet config manager needs,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3249,Enhance CoreSchema.xml file to meet config manager needs,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3250,Enhance BackendSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3251,Enhance ConfigGimpSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3252,Enhance ConfigRootRecordSchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-3239,Update DCF schema files to include information needed by config manager,Resolved,TITAN-3253,Enhance FlashPolicySchema.xml file to meet config manager needs,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1698,Design DCF FW parsing and handling ,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1699,Prototype coding for DCF FW parsing and handling,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1700,Unit Test for DCF FW parsing and handling,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1701,Integration test for DCF indexing library,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-1961,Develop mechanism to write DCF-R  to RFS,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-3387,Port indexing library to Griffin firmware,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4067,DCF prototype library - review and design doc update,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4146,Design review and code modifications,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4155,Initial infrastructure port for new DCF API's,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4254,Push the new infrastructure for common DCF APIs for loading config structures,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-4255,support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5171,CLONE - support for 64-bit type values in the DCF schemas in keyed-fields (alignment issue),Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-5964,FW to consume the configuration entries provided in DCF Schema xml files,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6113,Develop API to regenerate DCF-R from new ZMP,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6674,Update DCF documentation,Open
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6968,Initial support for DCF-P for integration with tools,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-6990,PCIe vendor ID and Device ID to be in DCF-M for tools team,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7011,Initial support for DCF-P for integration with tools - Phase - 2,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-1697,DCF Infrastructure,Code,TITAN-7397,Phase2 - Develop API to regenerate DCF-R from new ZMP,In Progress
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4456,SataSchema,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4457,PcieSchema,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4458,AhciSchema,In Progress
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4459,AtaSchema,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4460,NVMeSchema,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4461,FrontendSchema,Resolved
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-4462,CoreSchema,Closed
+TITAN-191,Drive Configuration File (DCF) Elements,Open,TITAN-4455,Usage of common DCF APIs across all modules,Code,TITAN-6848,DCF support for PCIe Init values in FW,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-350,SMART Read Data Attribute Threshold,Resolved
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-351,SMART Save Attribute Values,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-352,SMART Write Attribute Threshold,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-529,Support ATA feature set of obsoleted SMART commands,Open,TITAN-353,SMART Execute Offline Immediate,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2183,SMART attribute #1 Grown Bad Block Count/Reallocated Sector Count -05h/AAh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2184,SMART attribute #2 Unexpected Power Loss Count - AEh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2185,SMART attribute #3 Power-On Hours - 09h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2186,SMART attribute #4 Power Cycle Count - 0Ch,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2187,SMART attribute code clean,Resolved
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2188,SMART attribute #6 Power Fail Event Count - 0Bh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2189,SMART attribute #7 Lifetime Flash Erases - 64h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2190,SMART attribute #8 Lifetime DevSleep Exit Count - 65h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2191,SMART attribute #9 Lifetime PS4 Entry Count - 66h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2192,SMART attribute #10 Lifetime PS3 Entry Count - 66h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2193,SMART attribute #11 Program Fail Count - ABh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2194,SMART attribute #12 Erase Failure Count - ACh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2195,SMART attribute #13 Average Program/Erase Count - ADh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2196,SMART attribute #14 Wear Range Delta - B1h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2197,SMART attribute #15 SATA/PCIe Interface Downshift Count - B7h,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2198,SMART attribute #16 End-To-End CRC Error Count - B8h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2199,SMART attribute #17 Uncorrectable ECC Count - BBh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2200,SMART attribute #18 Primary Temperature - C2h,Resolved
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2201,SMART attribute #19 RAISE ECC Correctable Count - C3h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2202,SMART attribute #20 Uncorrectable Read Error Count - BBh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2203,SMART attribute #21 SATA R-Error (CRC) Error Count [SATA ONLY] - C7h,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2204,SMART attribute #22 Drive Life Protection Status - E6h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2205,SMART attribute #23 SSD Life Left - E8h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2206,SMART attribute #24 Available Reserved Space - E8h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2207,SMART attribute #25 Lifetime Writes to Flash - E9h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2208,SMART attribute #26 Lifetime Writes from Host - F1h,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2209,SMART attribute #27 Lifetime Reads from Host - F2h,Resolved
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2210,SMART attribute #28 Free Space - F3h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2211,SMART attribute #29 Perfect Attribute,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2212,SMART attribute #30 End-To-End CRC Error Count for HP - B8h,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2213,SMART attribute #31 Airflow Temperature Attribute for HP - BEh,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2214,SMART attribute #32,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2215,SMART attribute #33,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2216,SMART attribute #34,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2217,SMART attribute #35,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2218,SMART attribute #36,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2219,SMART attribute #37,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2220,SMART attribute #38,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2221,SMART attribute #39,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2222,SMART attribute #40,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2223,SMART attribute #41,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2224,SMART attribute #42,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2225,SMART attribute #43,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2226,SMART attribute #44,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2227,SMART attribute #45,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2228,SMART attribute #46,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2229,SMART attribute #47,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2230,SMART attribute #48,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2231,SMART attribute #49,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-2232,SMART attribute #50,Closed
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6566,SMART attribute #13 Average Program/Erase Count - RPC service,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6567,SMART attribute #2 Unexpected Power Loss Count - RPC service,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6568,SMART attribute #14 Wear Range Delta - RPC Service,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6569,SMART attribute #23 SSD Life Left - RPC service,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6570,SMART attribute #24 Available Reserved Space - RPC service,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6571,Power On Hours Feature and interface support ,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6757,Give the ERROR statistics  info in the bepu RPC server,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-6814,Fepu Statistics Information documentation,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-7442,TITAN-2182/Smart data flush task run PM state is not correct as the PM state is not normal ,Open
+TITAN-189,ATA Feature Set: SMART,Open,TITAN-2182,Implement SMART attributes for G.1.0,Open,TITAN-7511,Security Erase should not affect non-user accessible area,Open
+TITAN-189,ATA Feature Set: SMART,Open,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6809,ATA Protocol NCQ Send/Receive Handling ,Closed
+TITAN-189,ATA Feature Set: SMART,Open,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6810,ATA Protocol Trim Processing (Fast Path),Resolved
+TITAN-189,ATA Feature Set: SMART,Open,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-6811,ATA Protocol MULTIPLE handling (coding & review),Closed
+TITAN-189,ATA Feature Set: SMART,Open,GRFN-6523,ATA Procotol Implementation - Phase 1,Closed,GRFN-9450,Return D2H fis with error bit set on Data Set Management command until Trim is supported.,Closed
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1618,Identify Device Data Log Phase I - Design,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1619,Identify Device Data Log Phase I - Implementation,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1620,Identify Device Data Log Phase I - code review and test,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1621,Identify Device Data Log Phase I - Review,Closed
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1622,Identify Device Data Log Phase II - Design,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1623,Identify Device Data Log Phase I - rework,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1624,Identify Device Data Log Phase II - Implementation,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1625,Identify Device Data Log Phase II - code review,Resolved
+TITAN-188,Identify Device Data Log,Closed,TITAN-657,Implement Identify Device Data Log (ACS-3 added feature),Resolved,TITAN-1626,Identify Device Data Log Phase II - test & release,Closed
+TITAN-187,NAND State Information:  Read and Write,Open,TITAN-516,Support to retrieve and set/recover NAND state,Open,TITAN-913,Save/restore NAND state information - design,In Progress
+TITAN-187,NAND State Information:  Read and Write,Open,TITAN-516,Support to retrieve and set/recover NAND state,Open,TITAN-914,Save/restore NAND state information - implementation,Open
+TITAN-187,NAND State Information:  Read and Write,Open,TITAN-516,Support to retrieve and set/recover NAND state,Open,TITAN-915,Save/restore NAND state information - test,Open
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-2252,design/document,Closed
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-2253,coding,Closed
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-2254,debugging,Closed
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-1970,MST - RFS - Mini MST During Format,Resolved,TITAN-3991,Integration with RFS format,Resolved
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-497,Diagnostics API: Diagnostic Unlock,Closed,TITAN-851,Diag_Unlock design,Closed
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-497,Diagnostics API: Diagnostic Unlock,Closed,TITAN-852,Implemention of diagnostic lock/unlock support.,Resolved
+TITAN-91,Method to check RFS blocks during or before FORMAT,Resolved,TITAN-497,Diagnostics API: Diagnostic Unlock,Closed,TITAN-853,Testing of diagnostic lock/unlock functions,Closed
